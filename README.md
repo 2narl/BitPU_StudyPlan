@@ -235,13 +235,15 @@ Never copy code without understanding it.
 
 | Day       | Main Focus                            |
 | --------- | ------------------------------------- |
-| Monday    | C++ + Mathematics-II                  |
-| Tuesday   | Discrete Structures + Digital Logic   |
-| Wednesday | C++ + Financial Management            |
-| Thursday  | Mathematics-II + Discrete Structures  |
-| Friday    | Digital Logic + C++ Lab Practice      |
-| Saturday  | Previous Year Questions + Weak Topics |
-| Sunday    | Full Revision + Mock Test             |
+| Sunday    | C++ + Mathematics-II                  |
+| Monday    | Discrete Structures + Digital Logic   |
+| Tuesday   | C++ + Financial Management            |
+| Wednesday | Mathematics-II + Discrete Structures  |
+| Thursday  | Digital Logic + C++ Lab Practice      |
+| Friday    | Previous Year Questions + Weak Topics |
+| Saturday  | Full Revision + Mock Test             |
+
+
 
 ---
 
