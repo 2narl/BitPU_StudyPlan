@@ -129,7 +129,7 @@ The following study strategy is designed specifically for these subjects.
 **Books**
 
 * Higher Engineering Mathematics – B.S. Grewal
-* Erwin Kreyszig – *Advanced Engineering Mathematics*
+* [Erwin Kreyszig – *Advanced Engineering Mathematics*](https://drspmaths.wordpress.com/wp-content/uploads/2019/01/advanced-engineering-mathematics_by-erwin-kreyszig-__10th_edition-1.pdf)
 
 **YouTube**
 
