@@ -50,7 +50,7 @@ The following study strategy is designed specifically for these subjects.
 
 **Books**
 
-* Kenneth H. Rosen – *Discrete Mathematics and Its Applications*
+* **[Kenneth H. Rosen – *Discrete Mathematics and Its Applications](https://cis.temple.edu/~latecki/Courses/CIS2166-Fall25/RosenDiscreteMath8Ed.pdf)**
 * **[Schaum's Outline – *Discrete Mathematics*](https://dpvipracollege.in/wp-content/uploads/2023/01/Discrete-Mathematics-3rd-Edition.pdf)**
 
 **YouTube**
