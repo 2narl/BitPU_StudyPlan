@@ -7,6 +7,8 @@ The following study strategy is designed specifically for these subjects.
 
 ---
 
+ https://acmt.edu.np/wp-content/uploads/2025/09/BIT-II-Semester-Syllabus.pdf?utm_source=chatgpt.com "BIT / Purbanchal UniversityPurbanchal University"
+
 # Overall Semester Strategy
 
 ## Daily Study Time (4–5 Hours)
@@ -299,4 +301,4 @@ Take one mock test for each subject and review mistakes.
 
 Since your **third semester** will build on the foundations of **C++, Discrete Structures, Digital Logic, and Mathematics-II**, prioritize mastering these four subjects while maintaining regular practice in Financial Management & Accounting. Study consistently rather than cramming, revise every week, solve past Purbanchal University question papers, and write C++ programs by hand as well as on the computer. This approach will help you perform well in your second-semester exams and prepare you for more advanced BIT courses.
 
-[1]: https://acmt.edu.np/wp-content/uploads/2025/09/BIT-II-Semester-Syllabus.pdf?utm_source=chatgpt.com "BIT / Purbanchal UniversityPurbanchal University"
+
