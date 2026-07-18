@@ -179,7 +179,7 @@ Never copy code without understanding it.
 **Books**
 
 * [Object-Oriented Programming with C++ – E. Balagurusamy](https://gandhicollegekada.org/department/Computer/E-Resources/Object%20Oriented%20Programming%20With%20C++%20(%20PDFDrive.com%20).pdf)
-* The C++ Programming Language – Bjarne Stroustrup
+* [The C++ Programming Language – Bjarne Stroustrup](https://chenweixiang.github.io/docs/The_C++_Programming_Language_4th_Edition_Bjarne_Stroustrup.pdf)
 
 **YouTube**
 
