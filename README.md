@@ -7,7 +7,7 @@ The following study strategy is designed specifically for these subjects.
 
 ---
 
- https://acmt.edu.np/wp-content/uploads/2025/09/BIT-II-Semester-Syllabus.pdf?utm_source=chatgpt.com "BIT / Purbanchal UniversityPurbanchal University"
+[1] https://acmt.edu.np/wp-content/uploads/2025/09/BIT-II-Semester-Syllabus.pdf?utm_source=chatgpt.com "BIT / Purbanchal UniversityPurbanchal University"
 
 # Overall Semester Strategy
 
