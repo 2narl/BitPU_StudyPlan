@@ -92,8 +92,8 @@ The following study strategy is designed specifically for these subjects.
 
 **Books**
 
-* M. Morris Mano – *Digital Design*
-* Floyd – *Digital Fundamentals*
+* [M. Morris Mano – *Digital Design*](https://www.mpgcamb.com/wp-content/uploads/2024/12/M.-Morris-Mano-Digital-Design-Prentice-Hall-1995.pdf)
+* [Floyd – *Digital Fundamentals*](https://library.uniq.edu.iq/storage/books/file/Digital%20Fundamentalls/1667892328Digital_Fundamentals_11ed_by_Thomas_L.Floyd.pdf)
 
 **YouTube**
 
