@@ -65,7 +65,7 @@ The following study strategy is designed specifically for these subjects.
 
 * Khan Academy – Mathematics fundamentals
 * MIT OpenCourseWare – University-level mathematics
-* GeeksforGeeks – Graphs, recursion, Boolean algebra
+* [GeeksforGeeks](https://www.geeksforgeeks.org/engineering-mathematics/engineering-mathematics-tutorials/#discrete-mathematics) – Graphs, recursion, Boolean algebra
 
 ---
 
