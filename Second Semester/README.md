@@ -105,7 +105,7 @@ The following study strategy is designed specifically for these subjects.
 
 **Website**
 
-* GeeksforGeeks
+* [GeeksforGeeks](https://www.geeksforgeeks.org/digital-logic/what-is-digital-logic/)
 
 ---
 
