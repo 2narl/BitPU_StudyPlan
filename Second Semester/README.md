@@ -222,7 +222,7 @@ Never copy code without understanding it.
 
 **Books**
 
-* [I.M. Pandey](file:///D:/My%20BIT%20all%20Notes/Second%20Semester/5.Financial%20Management%20and%20Accounting(BIT155MS)/Financial%20Mgmt-IM%20Pandey%20Book.pdf) – *Financial Management*
+* [I.M. Pandey](https://drive.google.com/file/d/1dNnHKm-54d5mI6xHjTDJleQC0-vNH-on/view?usp=drive_link) – *Financial Management*
 * T.S. Grewal – *Accounting*
 
 **YouTube**
