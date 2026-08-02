@@ -68,6 +68,11 @@ The course covers:
 
 Neso Academy is useful for building a clear conceptual foundation before solving problems.
 
+## Link:
+
+- [Neso Academy — Discrete Mathematics Course](https://www.nesoacademy.org/cs/07-discrete-mathematics)
+- [Neso Academy — Discrete Mathematics YouTube Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3)
+
 ---
 
 ## 2. Gate Smashers — Best for Exam Preparation
@@ -95,6 +100,12 @@ Use Gate Smashers when you already understand the basic concept and want:
 - Quick revision
 - Problem-solving techniques
 
+## Link:
+
+- [Gate Smashers — Discrete Mathematics Playlist](https://www.youtube.com/watch?v=YBb2oYIzXK0)
+- [Gate Smashers — Function in Discrete Mathematics](https://www.youtube.com/watch?v=CClqErMJ-38)
+- [Gate Smashers — Discrete Mathematics Syllabus / Course Introduction](https://www.youtube.com/watch?v=YBb2oYIzXK0)
+  
 ---
 
 ## 3. MIT / University-Level Resources
