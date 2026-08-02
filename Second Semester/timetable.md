@@ -99,6 +99,27 @@ A structured, flexible, and balanced study routine designed for Computer Science
 
 ---
 
+## 🚨 3. Exam Period Routine (Fixed Exam Time: 1:00 PM – 4:00 PM)
+> **Exam Hours:** 1:00 PM – 4:00 PM (3 Hours)  
+> **Target:** Morning final review before exam + Evening preparation for the next exam paper.
+
+### 📋 Daily Schedule Table (Exam Day)
+
+| Time Slot (AM/PM) | Activity / Focus Area | Description & Objectives | Duration |
+| :--- | :--- | :--- | :---: |
+| **06:30 AM – 07:00 AM** | 🌅 Fresh Start | Light stretching, hydration, positive mindset | 30 min |
+| **07:00 AM – 09:30 AM** | ⚡ **Final Morning Review** | Formulas, key theorems, high-yield definitions for today's exam | 2 hrs 30 min |
+| **09:30 AM – 10:30 AM** | 🍳 Healthy Breakfast | Brain food, light hydration, mental relaxation | 1 hr |
+| **10:30 AM – 11:30 AM** | 📝 **Light Flashcard Check** | Formula sheet scan (NO new topics, strictly review) | 1 hr |
+| **11:30 AM – 12:30 PM** | 🥗 Early Lunch & Travel | Light lunch, pack admit card/pens, travel to exam center | 1 hr |
+| **12:30 PM – 01:00 PM** | 🏫 Arrive & Settle | Reach hall early, seat allocation, calm breathing | 30 min |
+| **01:00 PM – 04:00 PM** | 📝 **OFFICIAL EXAM TIME** | **3-Hour Examination** (Write clearly, manage time) | **3 hrs** |
+| **04:00 PM – 05:30 PM** | 🏡 Return Home & Relax | Travel back, snack/tea, mental decompression | 1 hr 30 min |
+| **05:30 PM – 08:00 PM** | 📘 **Next Subject: Deep Study** | High-weightage units for the NEXT upcoming exam | 2 hrs 30 min |
+| **08:00 PM – 09:00 PM** | 🍽️ Dinner Break | Dinner with family & mental break | 1 hr |
+| **09:00 PM – 10:30 PM** | ✍️ **Next Subject: Question Practice**| Solving past questions & numericals for the next exam | 1 hr 30 min |
+| **10:30 PM** | 😴 Good Night's Sleep | Sleep early to keep the brain sharp for the next paper | - |
+
 ## 🎯 Important Execution Rules
 
 1. **Strict 12-Hour Clock:** All slots use standard `AM/PM` notation for simplicity.
