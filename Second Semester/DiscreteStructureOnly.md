@@ -122,6 +122,13 @@ university-level discrete mathematics resources can be useful.
 
 A university-level course can help strengthen mathematical reasoning beyond exam-focused videos.
 
+## Link:
+
+
+- [MIT OpenCourseWare — Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+- [MIT OpenCourseWare — Spring 2024 Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/)
+- [MIT OCW — Lecture Notes, Assignments and Exams](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+
 ---
 
 # 📚 Recommended Books
