@@ -99,7 +99,7 @@ A structured, flexible, and balanced study routine designed for Computer Science
 
 ---
 
-## 🚨 3. Exam Period Routine (Fixed Exam Time: 1:00 PM – 4:00 PM)
+## 🚨 4. Exam Period Routine (Fixed Exam Time: 1:00 PM – 4:00 PM)
 > **Exam Hours:** 1:00 PM – 4:00 PM (3 Hours)  
 > **Target:** Morning final review before exam + Evening preparation for the next exam paper.
 
@@ -119,6 +119,8 @@ A structured, flexible, and balanced study routine designed for Computer Science
 | **08:00 PM – 09:00 PM** | 🍽️ Dinner Break | Dinner with family & mental break | 1 hr |
 | **09:00 PM – 10:30 PM** | ✍️ **Next Subject: Question Practice**| Solving past questions & numericals for the next exam | 1 hr 30 min |
 | **10:30 PM** | 😴 Good Night's Sleep | Sleep early to keep the brain sharp for the next paper | - |
+
+---
 
 ## 🎯 Important Execution Rules
 
