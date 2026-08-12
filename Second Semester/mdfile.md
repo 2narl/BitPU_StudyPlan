@@ -1,644 +1,378 @@
-Yes. I checked the Purbanchal University BIT Second Semester syllabus and matched it with Hindi-language resources. Your current Discrete Structure (BIT153HS) has 7 units: Set Theory & Matrices, Function & Counting, Logic, Relation & Digraphs, Graph & Tree, Order Relation & Structure, and Automata/Language/Grammar.
+# 📘 Purbanchal University BIT – Second Semester
+# Discrete Structure (BIT153HS)
 
-📘 Best Study Combination for You
+Complete study resources for **Purbanchal University (PU) BIT 2nd Semester – Discrete Structure**.
 
-I would use:
+This repository contains:
+- 📚 Unit-wise study materials
+- 🎥 Hindi YouTube video resources
+- 📖 Free books and PDF resources
+- 📝 Important exam topics
+- 🎯 PU exam-oriented preparation checklist
 
-Hindi videos → Gate Smashers / Sandeep Kumar Gour
-Concept depth → Neso Academy
-Exam practice → PU past questions + your class notes
+---
 
-Unit 1 — Set Theory and Matrices ⭐⭐⭐
+## 📑 Table of Contents
 
-Topics
+- [Course Overview](#-course-overview)
+- [Unit 1 – Set Theory and Matrices](#-unit-1--set-theory-and-matrices)
+- [Unit 2 – Function and Counting](#-unit-2--function-and-counting)
+- [Unit 3 – Logic](#-unit-3--logic)
+- [Unit 4 – Relation and Digraphs](#-unit-4--relation-and-digraphs)
+- [Unit 5 – Graph and Tree](#-unit-5--graph-and-tree)
+- [Unit 6 – Order Relation and Structure](#-unit-6--order-relation-and-structure)
+- [Unit 7 – Automata, Language and Grammar](#-unit-7--automata-language-and-grammar)
+- [Free Books and PDF Resources](#-free-books-and-pdf-resources)
+- [Important PU Exam Topics](#-important-pu-exam-topics)
+- [Recommended Study Order](#-recommended-study-order)
+- [Study Strategy](#-study-strategy)
 
-Sets and set operations
-Sequences
-Matrices
-Mathematical structures
+---
 
-Hindi video:
-Sandeep Kumar Gour – Set Theory / Discrete Mathematics in Hindi
+# 📚 Course Overview
 
-Study material:
-Neso Academy – Set Theory
+| Unit | Topic | Hours | Priority |
+|---|---|---:|---|
+| 1 | Set Theory and Matrices | 3 | ⭐⭐⭐ |
+| 2 | Function and Counting | 7 | ⭐⭐⭐⭐⭐ |
+| 3 | Logic | 6 | ⭐⭐⭐⭐⭐ |
+| 4 | Relation and Digraphs | 8 | ⭐⭐⭐⭐⭐ |
+| 5 | Graph and Tree | 8 | ⭐⭐⭐⭐⭐ |
+| 6 | Order Relation and Structure | 6 | ⭐⭐⭐⭐ |
+| 7 | Automata, Language and Grammar | 7 | ⭐⭐⭐⭐⭐ |
 
-Unit 2 — Function and Counting ⭐⭐⭐⭐⭐
+---
 
-Topics
+# 📘 Unit 1 – Set Theory and Matrices
 
-Functions
-One-to-one, onto, bijective
-Permutation
-Combination
-Pigeonhole principle
-Recurrence relation
+### Topics
 
-Hindi video:
-Sandeep Kumar Gour – Functions in Discrete Mathematics Hindi
+- Set and representation
+- Types of sets
+- Subsets
+- Set operations
+  - Union
+  - Intersection
+  - Difference
+  - Complement
+- Venn diagrams
+- Cartesian product
+- Sequences
+- Matrices
+- Matrix operations
+- Mathematical structures
 
-For counting/permutation/combination, also search:
-Gate Smashers – Permutation and Combination Hindi
+### 🎥 Hindi Video Resources
 
-Study material:
-Neso Academy – Functions, Counting and Permutations & Combinations
+- [Set Theory – Sandeep Kumar Gour](https://www.youtube.com/results?search_query=Sandeep+Kumar+Gour+Set+Theory+Discrete+Mathematics+Hindi)
+- [Types of Sets – Hindi](https://www.youtube.com/results?search_query=Sandeep+Kumar+Gour+Types+of+Set+Discrete+Mathematics+Hindi)
+- [Subsets – Hindi](https://www.youtube.com/results?search_query=Sandeep+Kumar+Gour+Subset+Discrete+Mathematics+Hindi)
+- [Union of Sets – Hindi](https://www.youtube.com/results?search_query=Sandeep+Kumar+Gour+Union+of+Sets+Hindi)
+- [Intersection of Sets – Hindi](https://www.youtube.com/results?search_query=Sandeep+Kumar+Gour+Intersection+of+Sets+Hindi)
+- [Difference of Sets – Hindi](https://www.youtube.com/results?search_query=Sandeep+Kumar+Gour+Difference+of+Sets+Hindi)
+- [Complement of Sets – Hindi](https://www.youtube.com/results?search_query=Sandeep+Kumar+Gour+Complement+of+Sets+Hindi)
+- [Venn Diagram – Gate Smashers](https://www.youtube.com/results?search_query=Gate+Smashers+Venn+Diagram+Discrete+Mathematics+Hindi)
+- [Cartesian Product – Hindi](https://www.youtube.com/results?search_query=Cartesian+Product+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Sequences – Hindi](https://www.youtube.com/results?search_query=Sequence+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Matrix Operations – Hindi](https://www.youtube.com/results?search_query=Matrix+Operations+Discrete+Mathematics+Hindi+Gate+Smashers)
 
-Unit 3 — Logic ⭐⭐⭐⭐⭐
+### 🎯 Important Exam Topics
 
-Topics
+- Set operations
+- Venn diagram
+- Set identities
+- Cartesian product
+- Matrix operations
+- Sequence problems
 
-Proposition
-Logical operations
-Conditional statement
-Proof techniques
-Mathematical induction
+---
 
-For Hindi explanations:
-Gate Smashers – Discrete Mathematics Hindi playlist
+# 📘 Unit 2 – Function and Counting
 
-Important for exam:
-Truth table, tautology/contradiction, logical equivalence, implication, laws of logic, proof techniques and induction.
+### Topics
 
-Unit 4 — Relation and Digraphs ⭐⭐⭐⭐⭐
+- Functions
+- Domain and range
+- One-one function
+- Onto function
+- Bijective function
+- Functions in Computer Science
+- Permutation
+- Combination
+- Pigeonhole Principle
+- Recurrence Relations
+- Characteristic Equation
 
-Topics
+### 🎥 Hindi Video Resources
 
-Cartesian product
-Relations
-Properties of relations
-Equivalence relation
-Digraphs
-Paths
-Transitive closure
-Warshall's algorithm
+- [Functions – Sandeep Kumar Gour](https://www.youtube.com/results?search_query=Sandeep+Kumar+Gour+Function+Discrete+Mathematics+Hindi)
+- [Domain and Range – Hindi](https://www.youtube.com/results?search_query=Domain+Range+Function+Discrete+Mathematics+Hindi)
+- [One-One Function – Hindi](https://www.youtube.com/results?search_query=One+One+Function+Discrete+Mathematics+Hindi+Sandeep+Kumar+Gour)
+- [Onto Function – Hindi](https://www.youtube.com/results?search_query=Onto+Function+Discrete+Mathematics+Hindi+Sandeep+Kumar+Gour)
+- [Bijective Function – Hindi](https://www.youtube.com/results?search_query=Bijective+Function+Discrete+Mathematics+Hindi)
+- [Permutation – Gate Smashers](https://www.youtube.com/results?search_query=Permutation+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Combination – Gate Smashers](https://www.youtube.com/results?search_query=Combination+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Pigeonhole Principle – Gate Smashers](https://www.youtube.com/results?search_query=Pigeonhole+Principle+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Recurrence Relation – Gate Smashers](https://www.youtube.com/results?search_query=Recurrence+Relation+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Characteristic Equation – Hindi](https://www.youtube.com/results?search_query=Recurrence+Relation+Characteristic+Equation+Hindi+Discrete+Mathematics)
 
-Hindi videos:
-Sandeep Kumar Gour – Relation in Discrete Mathematics Hindi
+### 🎯 Important Exam Topics
 
-For Warshall's algorithm:
-Neso Academy – Warshall's Algorithm
+- One-one, onto and bijective functions
+- Permutation
+- Combination
+- Pigeonhole Principle
+- Recurrence Relation
+- Characteristic Equation
 
-Neso's material specifically covers relation representation, closure, solved problems and Warshall's algorithm.
+---
 
-Unit 5 — Graph and Tree ⭐⭐⭐⭐⭐
+# 📘 Unit 3 – Logic
 
-This is very important for your PU exam.
+### Topics
 
-Topics
+- Proposition
+- Logical Operations
+- Truth Tables
+- Conditional Proposition
+- Biconditional Proposition
+- Tautology
+- Contradiction
+- Logical Equivalence
+- Proof Techniques
+- Mathematical Induction
 
-Graphs
-Euler path and circuit
-Hamiltonian path and circuit
-Trees
-Labeled tree
-Binary search tree
-Minimum spanning tree
+### 🎥 Hindi Video Resources
 
-Hindi videos:
-Gate Smashers – Graph Theory Hindi playlist
+- [Proposition – Gate Smashers](https://www.youtube.com/results?search_query=Proposition+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Logical Operators – Gate Smashers](https://www.youtube.com/results?search_query=Logical+Operators+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Truth Table – Gate Smashers](https://www.youtube.com/results?search_query=Truth+Table+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Conditional Statement – Hindi](https://www.youtube.com/results?search_query=Conditional+Statement+p+implies+q+Discrete+Mathematics+Hindi)
+- [Biconditional – Hindi](https://www.youtube.com/results?search_query=Biconditional+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Tautology – Hindi](https://www.youtube.com/results?search_query=Tautology+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Contradiction – Hindi](https://www.youtube.com/results?search_query=Contradiction+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Logical Equivalence – Hindi](https://www.youtube.com/results?search_query=Logical+Equivalence+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Proof Techniques – Hindi](https://www.youtube.com/results?search_query=Proof+Techniques+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Mathematical Induction – Hindi](https://www.youtube.com/results?search_query=Mathematical+Induction+Discrete+Mathematics+Hindi+Gate+Smashers)
 
-For individual topics:
+### 🎯 Important Exam Topics
 
-Euler Path and Euler Circuit – Hindi
+- Truth tables
+- Logical equivalence
+- Tautology
+- Contradiction
+- Conditional statements
+- Proof techniques
+- Mathematical induction
 
-Hamiltonian Path and Circuit – Hindi
+---
 
-Minimum Spanning Tree – Hindi
+# 📘 Unit 4 – Relation and Digraphs
 
-Unit 6 — Order Relation and Structure ⭐⭐
+### Topics
 
-Topics
+- Cartesian Product
+- Relations
+- Representation of Relations
+- Properties of Relations
+  - Reflexive
+  - Symmetric
+  - Antisymmetric
+  - Transitive
+- Equivalence Relation
+- Digraph
+- Paths
+- Transitive Closure
+- Warshall's Algorithm
 
-Partially ordered sets (POSET)
-Minimal/maximal elements
-Least/greatest elements
-Lattice
-Boolean algebra
+### 🎥 Hindi Video Resources
 
-Best Hindi resource: Sandeep Kumar Gour.
+- [Cartesian Product – Hindi](https://www.youtube.com/results?search_query=Cartesian+Product+Relation+Discrete+Mathematics+Hindi)
+- [Relation – Sandeep Kumar Gour](https://www.youtube.com/results?search_query=Sandeep+Kumar+Gour+Relation+Discrete+Mathematics+Hindi)
+- [Reflexive Relation – Hindi](https://www.youtube.com/results?search_query=Reflexive+Relation+Discrete+Mathematics+Hindi)
+- [Symmetric Relation – Hindi](https://www.youtube.com/results?search_query=Symmetric+Relation+Discrete+Mathematics+Hindi)
+- [Antisymmetric Relation – Hindi](https://www.youtube.com/results?search_query=Antisymmetric+Relation+Discrete+Mathematics+Hindi)
+- [Transitive Relation – Hindi](https://www.youtube.com/results?search_query=Transitive+Relation+Discrete+Mathematics+Hindi)
+- [Equivalence Relation – Hindi](https://www.youtube.com/results?search_query=Equivalence+Relation+Discrete+Mathematics+Hindi+Sandeep+Kumar+Gour)
+- [Digraph – Gate Smashers](https://www.youtube.com/results?search_query=Digraph+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Paths in Digraph – Hindi](https://www.youtube.com/results?search_query=Paths+in+Digraph+Discrete+Mathematics+Hindi)
+- [Transitive Closure – Hindi](https://www.youtube.com/results?search_query=Transitive+Closure+Discrete+Mathematics+Hindi+Gate+Smashers)
+- [Warshall's Algorithm – Hindi](https://www.youtube.com/results?search_query=Warshall+Algorithm+Discrete+Mathematics+Hindi+Gate+Smashers)
 
-Sandeep Kumar Gour – Poset, Hasse Diagram and Lattice Hindi
+### 🎯 Important Exam Topics
 
-Sandeep Kumar Gour – Boolean Algebra Hindi
+- Check relation properties
+- Equivalence relation
+- Digraph
+- Transitive closure
+- Warshall's Algorithm
 
-His Hindi material specifically includes playlists for Poset, Hasse, Lattice, Boolean Algebra, Functions, Relations and Sets.
+---
 
-Unit 7 — Automata, Language and Grammar ⭐⭐⭐⭐⭐
+# 📘 Unit 5 – Graph and Tree
 
-This is the topic you are studying right now.
+### Topics
 
-Topics
+- Graph
+- Types of Graph
+- Degree of Vertex
+- Pendant / Leaf Vertex
+- Regular Graph
+- Connected Graph
+- Directed Graph
+- Euler Path
+- Euler Circuit
+- Hamiltonian Path
+- Hamiltonian Circuit
+- Tree
+- Properties of Tree
+- Labeled Tree
+- Binary Search Tree
+- Tree Traversal
+- Minimum Spanning Tree
+- Prim's Algorithm
+- Kruskal's Algorithm
 
-Finite-state automata
+### 🎥 Hindi Video Resources
+
+- [Graph Theory Basics – Gate Smashers](https://www.youtube.com/results?search_query=Gate+Smashers+Graph+Theory+Basics+Hindi)
+- [Degree of Vertex – Hindi](https://www.youtube.com/results?search_query=Degree+of+Vertex+Graph+Theory+Hindi+Gate+Smashers)
+- [Connected Graph – Hindi](https://www.youtube.com/results?search_query=Connected+Graph+Theory+Hindi+Gate+Smashers)
+- [Pendant Vertex – Hindi](https://www.youtube.com/results?search_query=Pendant+Vertex+Graph+Theory+Hindi)
+- [Regular Graph – Hindi](https://www.youtube.com/results?search_query=Regular+Graph+Theory+Hindi+Gate+Smashers)
+- [Euler Path – Gate Smashers](https://www.youtube.com/results?search_query=Euler+Path+Gate+Smashers+Hindi)
+- [Euler Circuit – Gate Smashers](https://www.youtube.com/watch?v=FoiLXsV-bnI)
+- [Hamiltonian Path – Hindi](https://www.youtube.com/results?search_query=Hamiltonian+Path+Gate+Smashers+Hindi)
+- [Hamiltonian Circuit – Hindi](https://www.youtube.com/results?search_query=Hamiltonian+Circuit+Gate+Smashers+Hindi)
+- [Tree in Graph Theory – Hindi](https://www.youtube.com/results?search_query=Tree+Graph+Theory+Gate+Smashers+Hindi)
+- [Properties of Tree – Hindi](https://www.youtube.com/results?search_query=Properties+of+Tree+Discrete+Mathematics+Hindi)
+- [Labeled Tree – Hindi](https://www.youtube.com/results?search_query=Labeled+Tree+Discrete+Mathematics+Hindi)
+- [Binary Search Tree – Hindi](https://www.youtube.com/results?search_query=Binary+Search+Tree+Gate+Smashers+Hindi)
+- [Tree Traversal – Hindi](https://www.youtube.com/results?search_query=Tree+Traversal+Gate+Smashers+Hindi)
+- [Minimum Spanning Tree – Hindi](https://www.youtube.com/results?search_query=Minimum+Spanning+Tree+Gate+Smashers+Hindi)
+- [Prim's Algorithm – Hindi](https://www.youtube.com/results?search_query=Prim+Algorithm+Gate+Smashers+Hindi)
+- [Kruskal's Algorithm – Hindi](https://www.youtube.com/results?search_query=Kruskal+Algorithm+Gate+Smashers+Hindi)
+
+### 🎯 Important Exam Topics
+
+- Degree of vertex
+- Pendant vertex
+- Regular graph
+- Connected graph
+- Euler path/circuit
+- Hamiltonian path/circuit
+- Tree
+- Tree properties
+- Binary Search Tree
+- Minimum Spanning Tree
+- Prim's Algorithm
+- Kruskal's Algorithm
+
+### 💡 Remember
+
+**Euler → Edge**
+
+**Hamiltonian → Vertex**
+
+**Tree → Connected + No Cycle**
+
+---
+
+# 📘 Unit 6 – Order Relation and Structure
+
+### Topics
+
+- Partially Ordered Set (POSET)
+- Partial Order Relation
+- Minimal Element
+- Maximal Element
+- Least Element
+- Greatest Element
+- Hasse Diagram
+- Lower Bound
+- Upper Bound
+- LUB
+- GLB
+- Lattice
+- Boolean Algebra
+
+### 🎥 Hindi Video Resources
+
+- [POSET – Sandeep Kumar Gour](https://www.youtube.com/results?search_query=Sandeep+Kumar+Gour+POSET+Hindi)
+- [Partial Order Relation – Hindi](https://www.youtube.com/results?search_query=Partial+Order+Relation+POSET+Sandeep+Kumar+Gour+Hindi)
+- [Minimal Element – Hindi](https://www.youtube.com/results?search_query=Minimal+Element+POSET+Hindi)
+- [Maximal Element – Hindi](https://www.youtube.com/results?search_query=Maximal+Element+POSET+Hindi)
+- [Least Element – Hindi](https://www.youtube.com/results?search_query=Least+Element+POSET+Hindi)
+- [Greatest Element – Hindi](https://www.youtube.com/results?search_query=Greatest+Element+POSET+Hindi)
+- [Hasse Diagram – Hindi](https://www.youtube.com/results?search_query=Hasse+Diagram+Sandeep+Kumar+Gour+Hindi)
+- [LUB and GLB – Hindi](https://www.youtube.com/results?search_query=LUB+GLB+POSET+Hindi+Sandeep+Kumar+Gour)
+- [Lattice – Hindi](https://www.youtube.com/results?search_query=Sandeep+Kumar+Gour+Lattice+Hindi+Discrete+Mathematics)
+- [Boolean Algebra – Sandeep Kumar Gour](https://www.youtube.com/watch?v=0_hG_zbG9Ns)
+
+### 🎯 Important Exam Topics
+
+- POSET
+- Hasse Diagram
+- Minimal and Maximal Elements
+- Least and Greatest Elements
+- LUB and GLB
+- Lattice
+- Boolean Algebra
+
+---
+
+# 📘 Unit 7 – Automata, Language and Grammar
+
+### Topics
+
+- Alphabet
+- String
+- Empty String
+- Language
+- Finite Automata
+- Deterministic Finite Automata (DFA)
+- DFA Construction
+- Non-Deterministic Finite Automata (NFA)
+- DFA vs NFA
+- NFA to DFA Conversion
+- Regular Expression
+- Regular Grammar
+
+### 🎥 Hindi Video Resources
+
+- [Alphabet in TOC – Gate Smashers](https://www.youtube.com/results?search_query=Alphabet+TOC+Gate+Smashers+Hindi)
+- [String in TOC – Gate Smashers](https://www.youtube.com/results?search_query=String+in+TOC+Gate+Smashers+Hindi)
+- [Language in TOC – Gate Smashers](https://www.youtube.com/results?search_query=Language+in+TOC+Gate+Smashers+Hindi)
+- [Finite Automata – Gate Smashers](https://www.youtube.com/results?search_query=Finite+Automata+Gate+Smashers+Hindi)
+- [DFA – Gate Smashers](https://www.youtube.com/results?search_query=DFA+Deterministic+Finite+Automata+Gate+Smashers+Hindi)
+- [DFA Construction – Gate Smashers](https://www.youtube.com/results?search_query=DFA+Construction+Language+Gate+Smashers+Hindi)
+- [NFA – Gate Smashers](https://www.youtube.com/watch?v=Dli3czfNvlo)
+- [DFA vs NFA – Gate Smashers](https://www.youtube.com/watch?v=4BDz876IJBc)
+- [NFA to DFA – Gate Smashers](https://www.youtube.com/watch?v=LEigAZN6RdY)
+- [Regular Expression – Gate Smashers](https://www.youtube.com/results?search_query=Regular+Expression+Gate+Smashers+Hindi+TOC)
+- [Regular Grammar – Gate Smashers](https://www.youtube.com/results?search_query=Regular+Grammar+Gate+Smashers+Hindi+TOC)
+
+### 🎯 Study Order
+
+```text
+Alphabet
+   ↓
+String
+   ↓
+Language
+   ↓
+Finite Automata
+   ↓
 DFA
+   ↓
+DFA Construction
+   ↓
 NFA
-Strings
-Languages
-Regular expressions
-Regular grammar
-⭐ Best Hindi channel: Gate Smashers
-
-Start with:
-
-Then:
-
-Then:
-
-For your current questions such as “strings ending with 01”, watch the DFA construction/examples in the Gate Smashers TOC playlist before moving to NFA.
-
-📚 One Complete Study-Material Source
-Neso Academy — Discrete Mathematics
-
-Neso Academy – Discrete Mathematics
-
-It covers Logic, Set Theory, Relations, Partial Ordering, Lattices, Functions, Counting, and Permutations & Combinations in a structured sequence.
-
-It is mostly English, so don't use it as your first choice if Hindi explanation is easier for you. Use it when you need deeper understanding or extra solved problems.
-
-🎯 My Recommended Combination for PU BIT
-PU Unit	First Choice	Second Choice
-1. Set Theory & Matrices	Sandeep Kumar Gour	Neso
-2. Function & Counting	Sandeep Kumar Gour	Neso
-3. Logic	Gate Smashers	Neso
-4. Relation & Digraphs	Sandeep Kumar Gour	Neso
-5. Graph & Tree	Gate Smashers	Neso
-6. Order Relation & Structure	Sandeep Kumar Gour	Neso
-7. Automata	Gate Smashers ⭐	Neso
-🔥 For your exam preparation
-
-Don't try to study the whole YouTube syllabus.
-
-Use this cycle for each topic:
-
-1. Watch Hindi video → 2. Read my/simple notes → 3. Solve examples → 4. Solve PU past questions
-
-And because the PU syllabus gives 8 hours to Unit 4 and Unit 5, and 7 hours to Unit 2 and Unit 7, I would give these four units the most attention.
-
-If you want, I can also make you a 
-complete Unit 1–7 Discrete Structure resource list with direct YouTube videos for every individual topic + PDF/books + PU past-question topics, arranged exactly according to the BIT153HS syllabus.
-
-Make me a complete Unit 1–7 Discrete Structure resource list with direct YouTube videos for every individual topic, PDF/books, and PU past-question topics
-
-Absolutely. I checked the current BIT Semester II structure and the BIT153HS Discrete Structure syllabus, and I also checked the study resources already collected for your course. The syllabus has 7 units, with Unit 4 and Unit 5 having 8 hours each, Unit 2 and Unit 7 having 7 hours each, and Unit 3 and Unit 6 having 6 hours each.
-
-Below is a complete study map designed specifically for Purbanchal University BIT 2nd Semester — BIT153HS, with Hindi YouTube resources, free/legal PDFs/books, and the important PU question areas.
-
-📘 PU BIT 2nd Semester — Discrete Structure BIT153HS
-Best resource combination
-
-Hindi concept → Sandeep Kumar Gour / Gate Smashers
-Problem solving → Gate Smashers
-Extra depth → Neso Academy / MIT OCW
-Exam preparation → PU past questions + predicted/repeated topics
-
-Sandeep Kumar Gour has Hindi playlists specifically for Set Theory, Functions, Relations, Posets/Lattices and Boolean Algebra.
-
-Gate Smashers has complete playlists for Discrete Mathematics, Graph Theory and Theory of Computation, making it particularly useful for your Units 3, 5 and 7.
-
-UNIT 1 — Set Theory and Matrices ⭐⭐⭐
-
-Syllabus: Sets and operations, sequences, matrices and mathematical structure.
-
-Topics + Hindi videos
-Topic	Hindi resource
-Set and representation	Set Theory – Hindi videos
-Types of sets	Types of Sets – Hindi
-Subsets	Subsets – Hindi
-Union	Union of Sets – Hindi
-Intersection	Intersection of Sets – Hindi
-Difference	Difference of Sets – Hindi
-Complement	Complement of Sets – Hindi
-Venn diagram	Venn Diagram – Hindi
-Cartesian product	Cartesian Product – Hindi
-Sequence	Sequences – Hindi
-Matrix operations	Matrices – Hindi
-
-Direct verified Hindi video:
-Operations on Set – Sandeep Kumar Gour — covers set operations and is part of his Hindi Set Theory material.
-
-🔥 PU exam focus
-Set operations
-Venn diagram
-Set identities
-Cartesian product
-Matrix operations
-Basic sequence problems
-UNIT 2 — Function and Counting ⭐⭐⭐⭐⭐
-
-Syllabus: Functions, functions for computer science, permutation, combination, pigeonhole principle and recurrence relation.
-
-Topics + Hindi videos
-Topic	Video
-Function basics	Functions – Sandeep Kumar Gour Hindi
-Domain, range	Domain and Range – Hindi
-One-one function	One-One Function – Hindi
-Onto function	Onto Function – Hindi
-Bijective function	Bijective Function – Hindi
-Permutation	Permutation – Hindi
-Combination	Combination – Hindi
-Pigeonhole principle	Pigeonhole Principle – Hindi
-Recurrence relation	Recurrence Relation – Hindi
-Characteristic equation	Characteristic Equation – Hindi
-🔥 PU exam focus
-One-one / onto / bijective
-Permutation numerical
-Combination numerical
-Pigeonhole principle + proof
-Recurrence relation
-Solving recurrence using characteristic equation
-
-These are also among the highest-priority topics in your existing PU preparation material.
-
-UNIT 3 — Logic ⭐⭐⭐⭐⭐
-
-Syllabus: Proposition, logical operations, conditional statements, proof techniques and mathematical induction.
-
-Topics + Hindi videos
-Topic	Video
-Proposition	Proposition – Hindi
-Logical operators	Logical Operators – Hindi
-Truth table	Truth Table – Hindi
-Conditional p→q	Conditional Statement – Hindi
-Biconditional	Biconditional – Hindi
-Tautology	Tautology – Hindi
-Contradiction	Contradiction – Hindi
-Logical equivalence	Logical Equivalence – Hindi
-Proof techniques	Proof Techniques – Hindi
-Mathematical induction	Mathematical Induction – Hindi
-🔥 Most important
-
-Truth table → Logical equivalence → Tautology → Mathematical induction
-
-Your existing PU study guide also identifies these three as the high-value areas.
-
-UNIT 4 — Relation and Digraphs ⭐⭐⭐⭐⭐
-
-This is an 8-hour unit in the PU syllabus.
-
-Topics + Hindi videos
-Topic	Video
-Cartesian product	Cartesian Product – Hindi
-Relation	Relation – Sandeep Kumar Gour
-Reflexive	Reflexive Relation – Hindi
-Symmetric	Symmetric Relation – Hindi
-Antisymmetric	Antisymmetric Relation – Hindi
-Transitive	Transitive Relation – Hindi
-Equivalence relation	Equivalence Relation – Hindi
-Digraph	Digraph – Hindi
-Paths	Paths in Digraph – Hindi
-Transitive closure	Transitive Closure – Hindi
-Warshall's algorithm	Warshall Algorithm – Hindi
-
-A verified Sandeep Kumar Gour Hindi relation resource includes relation representation and matrix representation, with his Relation playlist.
-
-🔥 PU exam focus
-Determine whether relation is reflexive, symmetric, antisymmetric and transitive
-Equivalence relation
-Digraph
-Transitive closure
-Warshall's algorithm
-
-Your preparation guide specifically recommends practicing Warshall step-by-step.
-
-UNIT 5 — Graph and Tree ⭐⭐⭐⭐⭐
-
-Another 8-hour major unit.
-
-Topics + Hindi videos
-Topic	Video
-Graph terminology	Graph Theory Basics – Hindi
-Degree of vertex	Degree of Vertex – Hindi
-Connected graph	Connected Graph – Hindi
-Pendant/leaf vertex	Pendant Vertex – Hindi
-Regular graph	Regular Graph – Hindi
-Euler path	Euler Path – Gate Smashers
-Euler circuit	Euler Circuit – Gate Smashers
-Hamiltonian path	Hamiltonian Path – Hindi
-Hamiltonian circuit	Hamiltonian Circuit – Hindi
-Tree	Tree in Graph Theory – Hindi
-Tree properties	Properties of Tree – Hindi
-Labeled tree	Labeled Tree – Hindi
-Binary search tree	Binary Search Tree – Hindi
-Tree traversal	Tree Traversal – Hindi
-Minimum spanning tree	Minimum Spanning Tree – Hindi
-Prim's algorithm	Prim's Algorithm – Hindi
-Kruskal's algorithm	Kruskal's Algorithm – Hindi
-
-The verified Gate Smashers Euler video covers Euler path and Euler circuit with examples.
-
-🔥 Remember
-
-Euler → Edge
-
-Hamiltonian → Vertex
-
-Tree = Connected + No cycle
-
-These are also highlighted in your PU study material.
-
-UNIT 6 — Order Relation and Structure ⭐⭐⭐⭐
-Topics + Hindi videos
-Topic	Video
-POSET	POSET – Sandeep Kumar Gour Hindi
-Partial order relation	Partial Order Relation – Hindi
-Minimal element	Minimal Element – Hindi
-Maximal element	Maximal Element – Hindi
-Least element	Least Element – Hindi
-Greatest element	Greatest Element – Hindi
-Hasse diagram	Hasse Diagram – Hindi
-LUB	LUB – Hindi
-GLB	GLB – Hindi
-Lattice	Lattice – Sandeep Kumar Gour
-Boolean algebra	Boolean Algebra – Sandeep Kumar Gour
-
-Sandeep Kumar Gour's verified Boolean Algebra video is part of his Hindi Boolean Algebra playlist, alongside his Poset/Lattice, Function, Relation and Set playlists.
-
-🔥 PU exam focus
-POSET
-Hasse diagram
-Minimal/maximal elements
-Least/greatest elements
-LUB/GLB
-Lattice
-Boolean algebra
-UNIT 7 — Automata, Language and Grammar ⭐⭐⭐⭐⭐
-
-This is the unit you are studying now.
-
-The PU syllabus includes finite-state automata, strings, languages, regular expressions and regular grammars.
-
-Topics + Hindi videos
-Topic	Hindi video
-Alphabet	Alphabet in TOC – Hindi
-String	String in TOC – Hindi
-Language	Language in TOC – Hindi
-Finite automata	Finite Automata – Hindi
-DFA	DFA – Hindi
-DFA construction	DFA Construction – Hindi
-NFA	NFA – Gate Smashers Hindi
-DFA vs NFA	DFA vs NFA – Gate Smashers Hindi
-NFA → DFA	NFA to DFA – Gate Smashers Hindi
-Regular expression	Regular Expression – Hindi
-Regular grammar	Regular Grammar – Hindi
-
-The verified Gate Smashers NFA lesson covers the concept of nondeterministic finite automata and choices of moves.
-
-The DFA vs NFA lesson directly compares the two, and the NFA→DFA lesson demonstrates conversion with an example.
-
-🔥 For your current exam
-
-Learn in exactly this order:
-
-Alphabet → String → Language → FA → DFA → DFA construction → NFA → DFA vs NFA → NFA to DFA → Regular Expression → Regular Grammar
-
-And practice questions such as:
-
-DFA for strings ending with 01
-DFA for strings containing exactly one a
-DFA for strings beginning with 1
-DFA for strings containing 01
-NFA design
+   ↓
 DFA vs NFA
-NFA → DFA conversion
-
-Your existing PU prediction material also gives DFA definition, DFA design, DFA vs NFA, NFA→DFA, alphabet/string/language/grammar, regular expression and regular grammar high priority.
-
-📚 FREE / LEGAL PDF & BOOK MATERIAL
-1. PU syllabus — first priority
-
-Purbanchal University BIT Program
-
-The university's BIT page provides the BIT syllabus section.
-
-Your current BIT153HS syllabus lists the seven units and the recommended references, including Bernard Kolman, K. D. Joshi and B. P. Prashar.
-
-2. MIT OpenCourseWare — excellent free PDF
-
-MIT Mathematics for Computer Science — Complete Notes PDF
-
-This is one of the best free legal PDF resources for:
-
-Logic
-Proofs
-Induction
-Graph theory
-Directed graphs
-Relations
-Partial orders
-Recurrences
-Counting
-
-MIT provides the complete course notes as a PDF.
-
-You can also use the chapter-by-chapter PDFs:
-
-MIT Discrete Mathematics Readings
-
-MIT specifically lists PDFs for propositions, proof, induction, graph theory, directed graphs, relations/partial orders and recurrences.
-
-3. MIT 2024 course
-
-MIT Mathematics for Computer Science 2024
-
-It includes lecture videos, notes and problem sets covering sets, logic, relations, graph theory, state machines, induction, recurrences and counting.
-
-4. Free online textbook
-
-Discrete Mathematics — LibreTexts
-
-This is a free undergraduate discrete mathematics textbook and can also be saved as PDF from the site.
-
-📖 PU RECOMMENDED BOOKS
-
-Your syllabus lists these references:
-
-1. Bernard Kolman, Robert C. Busby & Sharon Ross
-
-Discrete Mathematical Structures
-
-Best for:
-
-Complete theory
-Definitions
-Relations
-Functions
-Graphs
-Logic
-2. K. D. Joshi
-
-Applied Discrete Structures
-
-Best for:
-
-Mathematical problems
-Worked examples
-Practice
-3. B. P. Prashar
-
-Discrete Mathematics
-
-Best for:
-
-Additional examples
-Exam preparation
-
-These are the references listed in the BIT153HS syllabus.
-
-Don't waste time looking for pirated PDFs. Use your college/library copy or legitimate previews/ebooks, and use MIT/LibreTexts for free supplementary material.
-
-📝 PU EXAM — HIGH-PRIORITY QUESTION TOPICS
-
-Based on the PU question-paper material/prediction work you already had me prepare, these are the topics I would put at the top of your revision list.
-
-🔴 Very High Priority
-Mathematical induction
-Pigeonhole principle
-Permutation and combination
-Reflexive, symmetric and transitive relation
-Equivalence relation
-Warshall's algorithm
-Graph degree / Euler path / Euler circuit
-DFA design
-DFA vs NFA
-Recurrence relation
-POSET + Hasse diagram
-Minimum spanning tree
-Tautology + truth table
-
-These are the strongest predicted areas in your existing 2026 question bank.
-
-🎯 UNIT-WISE QUESTION CHECKLIST
-Unit 1
- Set operations
- Venn diagram
- Set identities
- Cartesian product
- Matrix operations
-Unit 2
- One-one / onto / bijective
- Permutation
- Combination
- Pigeonhole principle
- Recurrence relation
-Unit 3
- Truth table
- Logical equivalence
- Tautology
- Contradiction
- Conditional proposition
- Proof techniques
- Mathematical induction
-Unit 4
- Relation properties
- Equivalence relation
- Digraph
- Path
- Transitive closure
- Warshall algorithm
-Unit 5
- Degree of vertices
- Connected graph
- Euler path/circuit
- Hamiltonian path/circuit
- Tree
- Binary search tree
- Prim's algorithm
- Kruskal's algorithm
- Minimum spanning tree
-Unit 6
- POSET
- Minimal/maximal
- Least/greatest
- Hasse diagram
- LUB/GLB
- Lattice
- Boolean algebra
-Unit 7
- Alphabet
- String
- Language
- Finite automata
- DFA
- DFA construction
- NFA
- DFA vs NFA
- NFA → DFA
- Regular expression
- Regular grammar
-
-This matches the topic checklist in your existing BIT153HS study material.
-
-⭐ MY RECOMMENDED STUDY ORDER
-
-Don't necessarily study Unit 1 → Unit 7 in syllabus order.
-
-For your final exam, I recommend:
-
-Unit 3 → Unit 4 → Unit 5 → Unit 2 → Unit 7 → Unit 6 → Unit 1
-	​
-
-Why?
-
-Unit 3 — Logic
-Easy to score once truth tables and equivalence are practiced.
-
-⬇️
-
-Unit 4 — Relations
-Large unit + Warshall numerical.
-
-⬇️
-
-Unit 5 — Graph & Tree
-Many diagram/numerical questions.
-
-⬇️
-
-Unit 2 — Functions & Counting
-Very important numerical unit.
-
-⬇️
-
-Unit 7 — Automata
-DFA/NFA needs practice rather than memorization.
-
-⬇️
-
-Unit 6 — POSET/Lattice
-
-⬇️
-
-Unit 1 — Sets & Matrices
-
-This is also consistent with the study order already prepared from your BIT153HS materials.
-
-🏆 If you want only 3 YouTube sources
-🥇 Hindi — Gate Smashers
-
-Best overall for exam-oriented explanations, Graph Theory and Automata.
-
-Gate Smashers — Discrete Mathematics
-
-🥈 Hindi — Sandeep Kumar Gour
-
-Best for Sets, Functions, Relations, POSET/Lattice and Boolean Algebra. His channel specifically provides Hindi playlists for these topics.
-
-Sandeep Kumar Gour — Discrete Mathematics Hindi
-
-🥉 English — Neso Academy
-
-Use when a concept isn't clear from Hindi resources.
-
-Neso Academy — Discrete Mathematics
-
-📌 One important thing
-
-Don't watch all three channels for every topic. That wastes time.
-
-Use:
-
-Hindi video → my exam-oriented notes → 3–5 problems → PU past question
-
-Your existing study guide recommends approximately 30% theory and 70% problem solving, which is a good approach for this subject.
-
-If you follow that method, DFA/NFA, Warshall, Euler/Hamiltonian, Hasse diagrams, MST, induction and counting should be practiced by actually solving problems—not just watching videos.
+   ↓
+NFA → DFA
+   ↓
+Regular Expression
+   ↓
+Regular Grammar
