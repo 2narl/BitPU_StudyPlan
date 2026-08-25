@@ -1,4 +1,4 @@
-# Second Semester BIT Purbanchal Universty
+# Second Semester BIT Purbanchal Universty.
 
 
 According to the current **Purbanchal University BIT (Second Semester)** curriculum, your core subjects are **Mathematics-II, Digital Logic, Discrete Structure, Object-Oriented Programming (C++), Financial Management & Accounting, and Project-II**. ([Asian College of Management & Technology][1])
@@ -26,7 +26,7 @@ The following study strategy is designed specifically for these subjects.
 
 ---
 
-# 1. Discrete Structures
+# 1. Discrete Structures.
 
 ### Focus Areas
 
@@ -69,7 +69,7 @@ The following study strategy is designed specifically for these subjects.
 
 ---
 
-# 2. Digital Logic
+# 2. Digital Logic.
 
 ### Focus Areas
 
