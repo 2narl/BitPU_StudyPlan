@@ -54,6 +54,7 @@ The following study strategy is designed specifically for these subjects.
 
 * **[Kenneth H. Rosen – Discrete Mathematics and Its Applications](https://cis.temple.edu/~latecki/Courses/CIS2166-Fall25/RosenDiscreteMath8Ed.pdf)**
 * **[Schaum's Outline – Discrete Mathematics](https://dpvipracollege.in/wp-content/uploads/2023/01/Discrete-Mathematics-3rd-Edition.pdf)**
+* **[Scham's Outline - Discrete Mathematics](https://books.google.co.zw/books?id=UnyHfPiAsroC&printsec=frontcover#v=onepage&q&f=false)**
 
 **YouTube**
 
