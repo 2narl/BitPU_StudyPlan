@@ -214,6 +214,8 @@
    > [Diagram Description]: Two undirected graphs labeled "G1" and "G2". 
    > * **G1** consists of four vertices forming a rectangular shape with straight edges connecting them (top, bottom, left, and right). Additionally, there is a curved parallel edge connecting the top-left and top-right vertices, and another curved parallel edge connecting the bottom-left and bottom-right vertices.
    > * **G2** consists of four vertices forming a rectangular shape connected by four straight edges. Additionally, there is a self-loop attached to the top-left vertex and another self-loop attached to the top-right vertex.
+   > * 
+   ![Graph G1 and G2 for Isomorphism](images/2024_q2_graphs.svg)
 
 3. (a) Differentiate between DFA and NFA. Design DFA that accepts strings over input a and b which accepts strings having number of a divisible by 3 and number of b divisible by 2. **[2+4]**
 
