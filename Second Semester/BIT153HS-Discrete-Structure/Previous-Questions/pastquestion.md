@@ -52,7 +52,7 @@
 
 6. What is a graph? Find the degree of each vertex of the graph shown below. **[2+6]**
 
-  
+  ![Graph for Question 6](q6_graph.png)
 
 
 7. Out of 70 students, 40 are taking Java Programming, and 38 are taking Python Programming. If 18 students are taking both:  
