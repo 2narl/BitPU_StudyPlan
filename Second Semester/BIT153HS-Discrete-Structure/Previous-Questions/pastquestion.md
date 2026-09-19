@@ -289,18 +289,18 @@
  **[3+5]**
    
 
- 8. Explain tautology, contradiction and contingency with example. Show that implication $(P \rightarrow Q)$ and contrapositive $(\neg Q \rightarrow \neg P)$ are equivalence. **[6+2]**
+ 7. Explain tautology, contradiction and contingency with example. Show that implication $(P \rightarrow Q)$ and contrapositive $(\neg Q \rightarrow \neg P)$ are equivalence. **[6+2]**
 
- 9. How many different permutations can be formed from the letters of the word "MISSISSIPPI"? **[8]**
+ 8. How many different permutations can be formed from the letters of the word "MISSISSIPPI"? **[8]**
 
- 10. List the types of function. Consider the function $f : R \rightarrow R$ defined by $f(x)=3x+2$. **[2+6]**
-
+ 9. List the types of function. Consider the function $f : R \rightarrow R$ defined by $f(x)=3x+2$. **[2+6]**
+     
     (i) Show that f is bijective.
 
-    (ii) Find the inverse function $f^{-1}(x)$
+    (ii) Find the inverse function $f^{-1}(x)$.
 
-    (iii) Verify that $f(f^{-1}(x)) = x$ and $f^{-1}(f(x)) x$.
+    (iii) Verify that $4f(f^{-1}(x)) = x$ and $f^{-1}(f(x)) x$$.
 
-11. Define POSET. Show that $\ge$ is a partial order on the set of integer Z. **[8]**
+10. Define POSET. Show that $\ge$ is a partial order on the set of integer Z. **[8]**
 
-12. What is a Binary Search Tree (BST)? Explain how elements are inserted into a BST with an example. Construct a BST using the values: 45, 20, 60, 15, 35, 50, 70. Then, perform in-order, pre-order, and post-order traversal on the tree. **[2+2+4]**
+11. What is a Binary Search Tree (BST)? Explain how elements are inserted into a BST with an example. Construct a BST using the values: 45, 20, 60, 15, 35, 50, 70. Then, perform in-order, pre-order, and post-order traversal on the tree. **[2+2+4]**
