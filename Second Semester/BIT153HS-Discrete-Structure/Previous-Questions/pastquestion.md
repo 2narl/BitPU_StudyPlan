@@ -52,52 +52,7 @@
 
 6. What is a graph? Find the degree of each vertex of the graph shown below. **[2+6]**
 
-   > **[Diagram Description]:** An undirected multigraph with four vertices labeled $V_1$, $V_2$, $V_3$, and $V_4$. 
-   > - Vertices $V_1$ and $V_4$ are connected by a vertical edge on the left.
-   > - Vertices $V_4$ and $V_3$ are connected by a horizontal edge across the top.
-   > - Vertices $V_1$ and $V_2$ are connected by a horizontal edge across the bottom.
-   > - Vertices $V_3$ and $V_2$ are connected by a vertical edge on the right.
-   > - A diagonal edge connects vertex $V_4$ to vertex $V_2$.
-   > - Vertex $V_2$ has two self-loop edges extending to its right.
-
-
-5. Define a Linear Homogeneous Recurrence Relation. Solve $a_n = 5a_{n-1} - 6a_{n-2}$ with $a_0 = 3, a_1 = 9$. **[2+6]**
-
-6. What is a graph? Find the degree of each vertex of the graph shown below. **[2+6]**
-
-```mermaid
-graph TD
-    %% Define Nodes and Labels
-    v1((v1)) 
-    v2((v2)) 
-    v3((v3)) 
-    v4((v4)) 
-    v5((v5))
-
-    %% Self loop on v1
-    v1 --- v1
-
-    %% Edges
-    v1 --- v2
-    v1 --- v3
-    v1 --- v4
-    
-    v2 --- v3
-    v2 --- v5
-    
-    v3 --- v4
-    v3 --- v5
-    
-    v4 --- v5
-
-    %% Custom Styling
-    style v1 fill:#ffffff,stroke:#000000,stroke-width:2px;
-    style v2 fill:#ffffff,stroke:#000000,stroke-width:2px;
-    style v3 fill:#ffffff,stroke:#000000,stroke-width:2px;
-    style v4 fill:#ffffff,stroke:#000000,stroke-width:2px;
-    style v5 fill:#ffffff,stroke:#000000,stroke-width:2px;
-
-```
+  
 
 
 7. Out of 70 students, 40 are taking Java Programming, and 38 are taking Python Programming. If 18 students are taking both:  
