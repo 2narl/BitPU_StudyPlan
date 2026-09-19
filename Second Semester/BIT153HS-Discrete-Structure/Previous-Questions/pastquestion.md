@@ -188,3 +188,61 @@
     (a) Matrices
     (b) Pigeonhole principle
     (c) Minimum spanning tree
+
+---
+
+# PURBANCHAL UNIVERSITY 2024
+
+
+**Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
+**Time:** 03:00 hrs.  
+**Full Marks:** 80 / **Pass Marks:** 32  
+**BIT153HS: Discrete Structure (New Course)**
+**Semester / Year: 2nd Semester / 2024 (New Course)**
+
+
+*Candidates are required to give their answers in their own words as far as practicable. Figure in the margin indicate full marks.*
+
+## Group A
+
+**Answer TWO questions.** **[2×12=24]**
+
+1. Define linear homogenous and non-homogeneous recurrence relation. Solve the recurrence relation $a_n = 2a_{n-1} + 5a_{n-2} - 6a_{n-3}$ for $n \geq 3$ with $a_0 = 7$, $a_1 = -4$ and $a_2 = 8$. **[4+8]**
+
+2. Define Euler path and circuit. Determine if the following graphs are isomorphic or not. **[4+8]**
+
+   > [Diagram Description]: Two undirected graphs labeled "G1" and "G2". 
+   > * **G1** consists of four vertices forming a rectangular shape with straight edges connecting them (top, bottom, left, and right). Additionally, there is a curved parallel edge connecting the top-left and top-right vertices, and another curved parallel edge connecting the bottom-left and bottom-right vertices.
+   > * **G2** consists of four vertices forming a rectangular shape connected by four straight edges. Additionally, there is a self-loop attached to the top-left vertex and another self-loop attached to the top-right vertex.
+
+3. (a) Differentiate between DFA and NFA. Design DFA that accepts strings over input a and b which accepts strings having number of a divisible by 3 and number of b divisible by 2. **[2+4]**
+
+   (b) Design DFA over input binary digits which accepts: **[3+3]**
+   (i) Only those strings which is divisible by 5
+   (ii) Only those strings containing substring 010
+
+## Group B
+
+**Answer SEVEN questions.** **[7×8=56]**
+
+4. In a village of Bardiya district, 800 people speak Nepali or Tharu language. If 90% people speak Nepali and 20% speak Tharu language, use a Venn-diagram to find the following: [missing text]
+   (a) The number of people who speak both languages.
+   (b) The number of people who speak only Nepali language.
+
+5. Suppose that the two lines in xy plane is related to one another by the relationship of "is parallel to". Show that the provided relation is an equivalence relation. [missing text]
+
+6. What do you understand by mathematical induction? Prove that 
+   $$1^2 + 2^2 + 3^2 + \dots + n^2 = \frac{n(n+1)(2n+1)}{6}$$ 
+   using mathematical induction. [missing text]
+
+7. Find the number of permutations of letters of the word "STATISTICS". In how many of these all three 'T's are together? How many of them begin with S? **[2+3+3]**
+
+8. (a) Prove that a complete graph $K$ is $n-1$ regular. **[4]**
+   
+   (b) Prove that "there is one and only one path between any pair of vertices in a tree T." **[4]**
+
+9. Check the validity of the argument: "If Today is Tuesday, I have test in Mathematics or Economics. If my Economics professor is sick, I will not have a test in Economics. Today is Tuesday and my Economics professor is sick. Thus, I have test in Mathematics." **[8]**
+
+10. What is minimum spanning tree? Explain Prim's algorithm with your own example. **[2+6]**
+
+11. Explain Hasse Diagram for a relation. How can you construct Hasse diagram for a relation? Explain with steps. Discuss LUB and GLB. **[2+3+3]**
