@@ -147,12 +147,7 @@
 
 3. (a) Define finite state automata. Draw the transition table for the deterministic finite automata given below. **[2+6]**
    
-   > [Diagram Description]: A state transition diagram for a Deterministic Finite Automaton (DFA) with five states: $q_0$ (start state), $q_1$, $q_2$, $q_3$ (accept/final state, indicated by a double circle), and $q_4$. 
-   > The transitions are as follows: 
-   > - $q_0$ has a self-loop on input `0`, and transitions to $q_1$ on input `1`. 
-   > - $q_1$ transitions to $q_2$ on inputs `0, 1`. 
-   > - $q_2$ transitions to $q_3$ on input `1`, and to $q_4$ on input `0`. 
-   > - $q_4$ has a self-loop on inputs `0, 1`.
+   ![automata](20232.png)
 
    (b) Define the following terms: **[4]**
        (i) Alphabet
@@ -211,11 +206,8 @@
 
 2. Define Euler path and circuit. Determine if the following graphs are isomorphic or not. **[4+8]**
 
-   > [Diagram Description]: Two undirected graphs labeled "G1" and "G2". 
-   > * **G1** consists of four vertices forming a rectangular shape with straight edges connecting them (top, bottom, left, and right). Additionally, there is a curved parallel edge connecting the top-left and top-right vertices, and another curved parallel edge connecting the bottom-left and bottom-right vertices.
-   > * **G2** consists of four vertices forming a rectangular shape connected by four straight edges. Additionally, there is a self-loop attached to the top-left vertex and another self-loop attached to the top-right vertex.
-   > * 
-   ![Graph G1 and G2 for Isomorphism](images/2024_q2_graphs.svg)
+  
+   ![Graph G1 and G2 for Isomorphism](123.png)
 
 3. (a) Differentiate between DFA and NFA. Design DFA that accepts strings over input a and b which accepts strings having number of a divisible by 3 and number of b divisible by 2. **[2+4]**
 
