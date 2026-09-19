@@ -121,7 +121,8 @@
 
 
 
-# PURBANCHAL UNIVERSITY
+# PURBANCHAL UNIVERSITY 2023
+
 
 **Bachelor in Information Technology (B.I.T.) / Second Semester / Final**
 **Time:** 03:00 hrs.
