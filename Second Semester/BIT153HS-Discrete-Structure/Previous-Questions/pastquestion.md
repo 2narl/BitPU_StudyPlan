@@ -14,14 +14,16 @@ Candidates are required to give their answers in their own words as far as pract
 
 ---
 
-### Group A
+## Group A
 
 **Attempt any two questions:** **2 × 12 = 24**
 
 1. **Define Tautology, Contradiction, and Contingency with truth tables and examples. Construct the truth table for**  
    
 
-\[((p \lor q) \land \lnot p) \to q\]
+\[
+   ((p \lor q) \land \lnot p) \to q
+   \]
 
   
    **What is Propositional Logic and Propositions?**  
@@ -45,7 +47,7 @@ Candidates are required to give their answers in their own words as far as pract
 
 ---
 
-### Group B
+## Group B
 
 **Answer any SEVEN questions:** **7 × 8 = 56**
 
@@ -56,7 +58,13 @@ Candidates are required to give their answers in their own words as far as pract
    **[2 + 6]**
 
 3. **Use Warshall’s algorithm to find the transitive closure of the relation**  
-   \(R = \{(1,2), (1,3), (1,4), (2,3), (2,4), (3,4)\}\).  
+   
+
+\[
+   R = \{(1,2), (1,3), (1,4), (2,3), (2,4), (3,4)\}.
+   \]
+
+  
    **[8]**
 
 4. **What is a Relation? Explain the properties of relations:**  
@@ -67,11 +75,20 @@ Candidates are required to give their answers in their own words as far as pract
    **Give one example of each.**  
    **[1 + 7]**
 
-5. *(Optional placeholder for additional Group B questions if needed by instructor)*
+5. **Define a Linear Homogeneous Recurrence Relation. Solve the recurrence**  
+   
 
-6. *(Optional placeholder for additional Group B questions if needed by instructor)*
+\[
+   a_n = 5a_{n-1} - 6a_{n-2}
+   \]
 
-7. *(Optional placeholder for additional Group B questions if needed by instructor)*
+  
+   **with** \(a_0 = 3,\; a_1 = 9\).  
+   **[8]**
+
+6. *(Optional placeholder for additional Group B question)*
+
+7. *(Optional placeholder for additional Group B question)*
 
 ---
 
