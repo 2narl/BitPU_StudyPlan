@@ -246,3 +246,113 @@
 10. What is minimum spanning tree? Explain Prim's algorithm with your own example. **[2+6]**
 
 11. Explain Hasse Diagram for a relation. How can you construct Hasse diagram for a relation? Explain with steps. Discuss LUB and GLB. **[2+3+3]**
+
+
+---
+
+# PURBANCHAL UNIVERSITY 2025
+
+
+**Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
+**Time:** 03:00 hrs.  
+**Full Marks:** 80 / **Pass Marks:** 32  
+**BIT153HS: Discrete Structure (New Course)**
+**Semester / Year: 2nd Semester / 2025 (New Course)**
+
+*Candidates are required to give their answers in their own words as far as practicable. Figure in the margin indicate full marks.*
+
+## Group A
+
+**Answer TWO questions.** 
+
+$$
+2×12=24
+$$
+
+1. Explain the concept of permutation and combination, providing detailed examples of how to apply them in solving counting problems, particularly those involving recurrence relations.
+
+2. (a) Define finite state automata. Differentiate between deterministic finite automata and non-deterministic finite automata. 
+
+   $$
+   2+4
+   $$
+
+   (b) Construct a DFA over $\Sigma = \{0,1\}$ whose language is set of string that ends with 111 and contains odd no of 1's. 
+
+   $$
+   6
+   $$
+
+3. (a) What is transitive relation? Give an example of a relation that is transitive and one that is not. 
+
+   $$
+   2+4
+   $$
+
+   (b) Explain the types of matrices: square, diagonal, identity and zero. Find $A^{-1}$ by adjoint method of $A = \begin{bmatrix} 4 & 3 \\ 3 & 2 \end{bmatrix}$. 
+
+   $$
+   4+2
+   $$
+
+## Group B
+
+**Answer SEVEN questions.** 
+
+$$
+7×8=56
+$$
+
+ 4. Consider the recurrence relation $a_n = 4a_{n-1} - 4a_{n-2}$. Find the general solution to the recurrence relation (beware the repeated root).
+
+    (i) Find the solution when $a_0 = 1$ and $a_1 = 2$. 
+
+    $$
+    4
+    $$
+
+    (ii) Find the solution when $a_0 = 1$ and $a_1 = 8$. 
+
+    $$
+    4
+    $$
+
+ 5. Explain pigeonhole principle and its applications.
+
+ 6. What are the steps we need to follow to prove $P(n)$ is valid using induction? Follow the steps and prove, for $n \ge 1$ and $a \neq 1$, that
+
+    $$
+    1 + a + a^2 + \dots + a^n = \frac{a^{n+1} - 1}{a - 1}
+    $$
+
+    $$
+    3+5
+    $$
+
+ 7. Explain tautology, contradiction and contingency with example. Show that implication $(P \rightarrow Q)$ and contrapositive $(\neg Q \rightarrow \neg P)$ are equivalence. 
+
+    $$
+    6+2
+    $$
+
+ 8. How many different permutations can be formed from the letters of the word "MISSISSIPPI"?
+
+ 9. List the types of function. Consider the function $f : R \rightarrow R$ defined by $f(x)=3x+2$. 
+
+    $$
+    2+6
+    $$
+
+    (i) Show that f is bijective.
+
+    (ii) Find the inverse function $f^{-1}(x)$
+
+    (iii) Verify that $f(f^{-1}(x)) = x$ and $f^{-1}(f(x)) x$.
+
+10. Define POSET. Show that $\ge$ is a partial order on the set of integer Z.
+
+11. What is a Binary Search Tree (BST)? Explain how elements are inserted into a BST with an example. Construct a BST using the values: 45, 20, 60, 15, 35, 50, 70. Then, perform in-order, pre-order, and post-order traversal on the tree. 
+
+    $$
+    2+2+4
+    $$
