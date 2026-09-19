@@ -1,4 +1,5 @@
-<div style="font-size: 20px;">
+
+   
 # COLLEGE OF INFORMATION TECHNOLOGY & ENGINEERING
 
 **2026**  
@@ -307,4 +308,4 @@
 11. What is a Binary Search Tree (BST)? Explain how elements are inserted into a BST with an example. Construct a BST using the values: 45, 20, 60, 15, 35, 50, 70. Then, perform in-order, pre-order, and post-order traversal on the tree. **[2+2+4]**
 
 ---
-</div>
+
