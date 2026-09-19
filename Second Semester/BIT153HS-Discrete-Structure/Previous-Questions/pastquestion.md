@@ -63,3 +63,5 @@
    Draw the Venn diagram. **[2+2+2+2]**
 
 8. Explain the Hasse Diagram for a relation. How can you construct a Hasse diagram for a relation? Explain with steps. Discuss LUB and GLB. **[2+4+2]**
+
+   ---
