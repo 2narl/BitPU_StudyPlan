@@ -173,9 +173,7 @@
 
 9. Determine degree of each vertex of the graph: **[4+4]**
 
-   > [Diagram Description]: Two separate undirected graphs labeled "Figure (a)" and "Figure (b)".
-   > - **Figure (a):** Contains four vertices $V_1, V_2, V_3, V_4$ forming a rectangle with outer edges connecting $(V_1, V_2)$, $(V_2, V_3)$, $(V_3, V_4)$, and $(V_4, V_1)$. It includes a diagonal edge connecting $(V_2, V_4)$, and a self-loop attached to vertex $V_2$.
-   > - **Figure (b):** Contains five vertices $V_1, V_2, V_3, V_4, V_5$. Vertices $V_1, V_2, V_3$ and $V_5$ form a somewhat kite-like outer structure with $V_4$ centrally connected. The edges are $(V_1, V_4)$, $(V_1, V_2)$, $(V_2, V_4)$, $(V_2, V_3)$, $(V_3, V_4)$, $(V_3, V_5)$, and $(V_4, V_5)$. Additionally, vertex $V_5$ has two distinct self-loops attached to it.
+   ![fig.1 and fig.2 vertex](20231.png)
 
 10. Define partition set and product set with examples. Discuss types of function. **[3+5]**
 
