@@ -84,11 +84,21 @@ Candidates are required to give their answers in their own words as far as pract
 
   
    **with** \(a_0 = 3,\; a_1 = 9\).  
-   **[8]**
+   **[2 + 6]**
 
-6. *(Optional placeholder for additional Group B question)*
+6. **What is a graph? Find the degree of each vertex of the graph shown below.**  
+   *(Graph with vertices \(V_1, V_2, V_3, V_4\); include loops and edges as shown in the exam figure.)*  
+   **[2 + 6]**
 
-7. *(Optional placeholder for additional Group B question)*
+7. **Out of 70 students, 40 are taking Java Programming, and 38 are taking Python Programming. If 18 students are taking both:**  
+   - **(a) How many students are taking neither course?**  
+   - **(b) How many students are taking either course?**  
+   - **(c) What is the probability that a chosen student is taking only Python?**  
+   - **Draw the Venn diagram.**  
+   **[2 + 2 + 2 + 2]**
+
+8. **Explain the Hasse Diagram for a relation. How can you construct a Hasse diagram for a relation? Explain with steps. Discuss LUB and GLB.**  
+   **[2 + 4 + 2]**
 
 ---
 
