@@ -119,25 +119,14 @@
 
 ---
 
----
-University / Board: Purbanchal University
-Subject: Discrete Structure
-Course / Program: BIT
 
-Full Marks / Pass Marks: 80 / 32
-Time Allowed: 03:00 hrs
----
 
 # PURBANCHAL UNIVERSITY
 
-**2023**
 
 **Bachelor in Information Technology (B.I.T.) / Second Semester / Final**
-
 **Time:** 03:00 hrs.
-
 **Full Marks:** 80 / **Pass Marks:** 32
-
 **BIT153HS: Discrete Structure (New Course)**
 **Semester / Year: 2nd Semester / 2023**
 
