@@ -255,10 +255,7 @@
 
 ## Group A
 
-**Answer TWO questions.** 
-
-
-2×12=24
+**Answer TWO questions. [2×12=24]**
 
 
 1. Explain the concept of permutation and combination, providing detailed examples of how to apply them in solving counting problems, particularly those involving recurrence relations.
@@ -277,11 +274,7 @@
 
 ## Group B
 
-**Answer SEVEN questions.** 
-
-$$
-7×8=56
-$$
+**Answer SEVEN questions. [7×8=56]**
 
  4. Consider the recurrence relation $a_n = 4a_{n-1} - 4a_{n-2}$. Find the general solution to the recurrence relation (beware the repeated root).
 
@@ -299,14 +292,15 @@ $$
     $$
     1 + a + a^2 + \dots + a^n = \frac{a^{n+1} - 1}{a - 1}
     $$
+    
   **[3+5]**
    
 
- 7. Explain tautology, contradiction and contingency with example. Show that implication $(P \rightarrow Q)$ and contrapositive $(\neg Q \rightarrow \neg P)$ are equivalence. **[6+2]**
+ 8. Explain tautology, contradiction and contingency with example. Show that implication $(P \rightarrow Q)$ and contrapositive $(\neg Q \rightarrow \neg P)$ are equivalence. **[6+2]**
 
- 8. How many different permutations can be formed from the letters of the word "MISSISSIPPI"? **[8]**
+ 9. How many different permutations can be formed from the letters of the word "MISSISSIPPI"? **[8]**
 
- 9. List the types of function. Consider the function $f : R \rightarrow R$ defined by $f(x)=3x+2$. **[2+6]**
+ 10. List the types of function. Consider the function $f : R \rightarrow R$ defined by $f(x)=3x+2$. **[2+6]**
 
     (i) Show that f is bijective.
 
@@ -314,6 +308,6 @@ $$
 
     (iii) Verify that $f(f^{-1}(x)) = x$ and $f^{-1}(f(x)) x$.
 
-10. Define POSET. Show that $\ge$ is a partial order on the set of integer Z. **[8]**
+11. Define POSET. Show that $\ge$ is a partial order on the set of integer Z. **[8]**
 
-11. What is a Binary Search Tree (BST)? Explain how elements are inserted into a BST with an example. Construct a BST using the values: 45, 20, 60, 15, 35, 50, 70. Then, perform in-order, pre-order, and post-order traversal on the tree. **[2+2+4]**
+12. What is a Binary Search Tree (BST)? Explain how elements are inserted into a BST with an example. Construct a BST using the values: 45, 20, 60, 15, 35, 50, 70. Then, perform in-order, pre-order, and post-order traversal on the tree. **[2+2+4]**
