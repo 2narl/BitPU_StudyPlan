@@ -124,11 +124,11 @@
 # PURBANCHAL UNIVERSITY 2023
 
 
-**Bachelor in Information Technology (B.I.T.) / Second Semester / Final**
-**Time:** 03:00 hrs.
-**Full Marks:** 80 / **Pass Marks:** 32
+**Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
+**Time:** 03:00 hrs.  
+**Full Marks:** 80 / **Pass Marks:** 32  
 **BIT153HS: Discrete Structure (New Course)**
-**Semester / Year: 2nd Semester / 2023**
+**Semester / Year: 2nd Semester / 2023 (New Course)**
 
 *Candidates are required to give their answers in their own words as far as practicable.*
 
