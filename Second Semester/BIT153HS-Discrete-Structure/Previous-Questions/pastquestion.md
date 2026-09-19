@@ -299,7 +299,7 @@
 
     (ii) Find the inverse function $f^{-1}(x)$.
 
-    (iii) Verify that $4f(f^{-1}(x)) = x$ and $f^{-1}(f(x)) x$$.
+    (iii) Verify that $f(f^{-1}(x)) = x$ and $f^{-1}(f(x)) x$.
 
 10. Define POSET. Show that $\ge$ is a partial order on the set of integer Z. **[8]**
 
