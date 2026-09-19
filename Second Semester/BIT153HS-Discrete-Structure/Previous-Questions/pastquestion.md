@@ -97,6 +97,9 @@ graph TD
     style v4 fill:#ffffff,stroke:#000000,stroke-width:2px;
     style v5 fill:#ffffff,stroke:#000000,stroke-width:2px;
 
+```
+
+
 7. Out of 70 students, 40 are taking Java Programming, and 38 are taking Python Programming. If 18 students are taking both:  
    a. How many students are taking neither course?  
    b. How many students are taking either course?  
