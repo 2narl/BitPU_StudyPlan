@@ -52,7 +52,7 @@
 
 6. What is a graph? Find the degree of each vertex of the graph shown below. **[2+6]**
 
-  ![Graph for Question 6](q6_graph.png)
+  ![Graph for Question 6](20228.png)
 
 
 7. Out of 70 students, 40 are taking Java Programming, and 38 are taking Python Programming. If 18 students are taking both:  
@@ -109,7 +109,7 @@
 
 8. What is graph? Find the degree of vertex of the graph. **[2 + 6]**
 
-   > [Diagram Description]: A graph with four labeled vertices $v_1, v_2, v_3, v_4$. Vertices $v_1, v_2, v_3, v_4$ form a rectangular cycle with edges $(v_1, v_4)$, $(v_4, v_3)$, $(v_3, v_2)$, and $(v_2, v_1)$. There is a diagonal edge connecting $v_4$ and $v_2$, and two self-loops attached at vertex $v_2$.
+![Graph for Question 8](20228.png)   
 
 9. Discuss union, intersection, and difference of two sets with example. **[8]**
 
