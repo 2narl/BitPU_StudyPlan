@@ -123,7 +123,6 @@
 
 # PURBANCHAL UNIVERSITY
 
-
 **Bachelor in Information Technology (B.I.T.) / Second Semester / Final**
 **Time:** 03:00 hrs.
 **Full Marks:** 80 / **Pass Marks:** 32
