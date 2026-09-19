@@ -265,9 +265,7 @@
    (b) Construct a DFA over $\Sigma = \{0,1\}$ whose language is set of string that ends with 111 and contains odd no of 1's. **[6]**
 
 
-3. (a) What is transitive relation? Give an example of a relation that is transitive and one that is not. **[2+4]**
-
-   
+3. (a) What is transitive relation? Give an example of a relation that is transitive and one that is not. **[2+4]**   
 
    (b) Explain the types of matrices: square, diagonal, identity and zero. Find $A^{-1}$ by adjoint method of $A = \begin{bmatrix} 4 & 3 \\ 3 & 2 \end{bmatrix}$.  **[2+4]**
 
@@ -280,20 +278,15 @@
 
     (i) Find the solution when $a_0 = 1$ and $a_1 = 2$. **[4]**
 
-    
-
     (ii) Find the solution when $a_0 = 1$ and $a_1 = 8$. **[4]**
 
 
  5. Explain pigeonhole principle and its applications. **[8]**
 
- 6. What are the steps we need to follow to prove $P(n)$ is valid using induction? Follow the steps and prove, for $n \ge 1$ and $a \neq 1$, that
+ 6. What are the steps we need to follow to prove $P(n)$ is valid using induction? Follow the steps and prove, for $n \ge 1$ and $a \neq 1$, that $$1 + a + a^2 + \dots + a^n = \frac{a^{n+1} - 1}{a - 1}$$.
 
-    $$
-    1 + a + a^2 + \dots + a^n = \frac{a^{n+1} - 1}{a - 1}
-    $$
-    
-  **[3+5]**
+   
+ **[3+5]**
    
 
  8. Explain tautology, contradiction and contingency with example. Show that implication $(P \rightarrow Q)$ and contrapositive $(\neg Q \rightarrow \neg P)$ are equivalence. **[6+2]**
