@@ -142,12 +142,14 @@
 
 1. (a) Find the converse, inverse, and contrapositive of the statement given below:
        If you study hard, you will pass the exam. **[3]**
+   
    (b) Determine whether the compound statement given below is tautology or not. $(p \rightarrow \sim q) \leftrightarrow \sim (q \land r)$. **[5]**
+   
    (c) State addition and multiplication laws of counting. **[4]**
 
-2. Discuss reflexive, symmetric and transitive relation with example. If $R = \{(1, 2), (2, 3), (3, 1)\}$ and $A = \{1, 2, 3\}$, then find transitive closure of R using warshall's algorithm. **[6+6]**
+3. Discuss reflexive, symmetric and transitive relation with example. If $R = \{(1, 2), (2, 3), (3, 1)\}$ and $A = \{1, 2, 3\}$, then find transitive closure of R using warshall's algorithm. **[6+6]**
 
-3. (a) Define finite state automata. Draw the transition table for the deterministic finite automata given below. **[2+6]**
+4. (a) Define finite state automata. Draw the transition table for the deterministic finite automata given below. **[2+6]**
    
    ![automata](20232.png)
 
