@@ -1,4 +1,6 @@
-# Purbanchal University BIT Study Resources <a href="https://deepwiki.com/2narl/BitPU_StudyPlan"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+# Purbanchal University BIT Study Resources 
+
+<a href="https://deepwiki.com/2narl/BitPU_StudyPlan"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 
 Welcome to **BitPU_StudyPlan** — a student-maintained repository of learning materials and academic resources for the **Bachelor of Information Technology (BIT)** program at **Purbanchal University, Nepal**.
 
