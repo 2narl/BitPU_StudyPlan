@@ -2,7 +2,7 @@
 
 Use this folder to store PU BIT153HS previous-year question papers.
 
-## Recommended format
+## Format
 
 ```text
 pastquestion.md/
