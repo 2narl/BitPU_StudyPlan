@@ -5,106 +5,112 @@
 **Weekly Hours:** Lecture 3 | Tutorial 1 | Laboratory -  
 **Course Type:** Theory
 
-## Course Objectives
+## Course Objective
 
-- Understand the relationship between information technology and society.
-- Identify ethical, legal and social issues arising from the use of digital technologies.
-- Develop responsible professional behaviour and awareness of privacy, security and intellectual property.
-- Evaluate the benefits, risks and social consequences of technology.
+To provide students with technical and emotional aspects of sociology and its components.
 
-## Detailed Syllabus and Study Outline
+## Detailed PU Syllabus
 
-> This is an expanded subject study outline based on the course title and standard IT ethics coverage. It is not presented as a verbatim PU unit-by-unit syllabus. Confirm the exact current BIT104HS units, local legal provisions and prescribed readings with your college.
+### Unit 1: Introduction (4 Hrs)
+- Definition and evolution of sociology
+- Relationship of sociology with economics, political science and computer science
+- Applications of sociology
 
-### Unit 1: Introduction to Society and Information Technology
-- Meaning and characteristics of society
-- Meaning, development and role of information technology
-- Relationship between technology and social change
-- Positive and negative effects of IT
-- IT in education, health, business, government and communication
-- Digital transformation and everyday life
+### Unit 2: Social and Cultural Change (6 Hrs)
+- Processes of social change: innovation, invention, diffusion and discovery
+- Theories of social change: evolution, functional and conflict theories
+- Factors of social change: economics, technology, education and demography
+- Role of media and communication in social and cultural change
+- Resistance to social change
+- Technological changes and their consequences
 
-### Unit 2: Digital Society and the Digital Divide
-- Digital society and information society
-- Access to computers, networks and digital services
-- Digital divide: causes, dimensions and consequences
-- Digital literacy and inclusion
-- Technology access in urban and rural communities
-- Accessibility and inclusive design
+### Unit 3: Understanding Development (5 Hrs)
+- Definition and approaches of development
+- Indicators of development and features of developing countries
+- Development planning
+- Role of national and international communities and the state
 
-### Unit 3: Ethics and Professional Responsibility
-- Meaning of ethics, morality and professional ethics
-- Ethical decision-making
-- Professional responsibilities of IT practitioners
-- Codes of professional conduct
-- ACM Code of Ethics
-- Conflicts of interest, honesty and accountability
-- Responsible use of organizational information
+### Unit 4: Process of Transformation (4 Hrs)
+- Modernization
+- Globalization
+- Migration
+- E-governance and e-commerce
 
-### Unit 4: Privacy, Data Protection and Security
-- Meaning and importance of privacy
-- Personal data and sensitive information
-- Data collection, consent and appropriate use
-- Surveillance and tracking
-- Identity theft and misuse of personal information
-- Information security principles
-- Responsible disclosure and security awareness
+### Unit 5: Characteristics of Nepali Society and Culture (5 Hrs)
+- Historical development of Nepal
+- Demographic composition
+- Contemporary issues: gender, caste and ethnicity
+- National integration and differentiation
+- Social stratification, problems and control
 
-### Unit 5: Intellectual Property and Digital Content
-- Copyright and software licensing
-- Plagiarism and academic integrity
-- Patents, trademarks and trade secrets
-- Open-source software and licensing
-- Software piracy and unauthorized copying
-- Ownership of digital content
+### Unit 6: Ethical Issues in IT (5 Hrs)
+- Definition of profession and professional ethics
+- Code of conduct
+- Ethical dilemmas and problems
+- Disciplinary action
+- Corporate social responsibility
 
-### Unit 6: Cybercrime, Law and Regulation
-- Meaning and types of cybercrime
-- Cyberbullying, online fraud and identity theft
-- Unauthorized access and data theft
-- Digital evidence and responsible reporting
-- Overview of cyber law and relevant Nepalese legal provisions
-- Legal and ethical responsibilities of Internet users
+### Unit 7: Introduction to Emotional Intelligence (9 Hrs)
+- Definition and benefits of emotional intelligence
+- Components of emotional intelligence
+- Self-management
+- Self-awareness
+- Self-regulation
+- Self-motivation
+- Empathy
+- Domains and competencies of emotional intelligence
+- Emotional leadership development
+- Skills in emotional intelligence:
+  - Accurately perceive emotions
+  - Use emotions to facilitate thinking
+  - Understand emotional meanings
+  - Manage emotions
+- Optimism, pessimism and the balance between optimism and pessimism
 
-### Unit 7: Emerging Technologies and Ethical Challenges
-- Artificial intelligence and algorithmic bias
-- Automation and employment
-- Social media, misinformation and harmful content
-- Digital footprints and online reputation
-- Environmental impact of computing and e-waste
-- Ethical use of emerging technologies
+### Unit 8: Social Management and Responsibility (7 Hrs)
+- Social skills to make an impact in society
+- Creating a powerful first impression
+- Assessing a situation in society and the workplace
+- Understanding and managing emotions
+- Role of emotional intelligence in the social environment
+- Articulating emotions using language
+- Disagreeing constructively
 
-## Recommended Textbooks
+## Recommended Textbooks and References
 
-1. **Computer Ethics** — Deborah G. Johnson.
-2. **Ethics for the Information Age** — Michael J. Quinn.
-3. **A Gift of Fire: Social, Legal, and Ethical Issues for Computing Technology** — Sara Baase and Timothy M. Henry.
-4. **Cyberethics: Morality and Law in Cyberspace** — Richard A. Spinello.
+1. **What Is Sociology? Introduction to the Discipline and Profession** — Alex Inkeles.
+2. **Emotional Intelligence: Why It Can Matter More Than IQ** — Daniel Goleman.
+3. **Introduction to Sociology** — Anthony Giddens and David Mitchell (the syllabus reference lists Giddens and D. Mitchell; confirm exact edition).
+4. **Traditional Culture and the Impact of Technological Change** — M. Foster.
+5. **Principles of Sociology with an Introduction to Social Thought** — N. S. Rao.
+6. **The Essence of Business Ethics** — Peter Pratley.
+7. **Dimensions of Nepali Society and Culture** — Rishikeshav Raj Regmi.
 
 ## How to Study
 
-- Prepare definitions and explain each issue with a practical example.
-- Use short case studies from Nepal and international contexts.
-- For each ethical problem, identify stakeholders, possible harms, rights and responsibilities.
-- Distinguish legal requirements from ethical responsibilities.
-- Check the current version of Nepalese laws rather than relying on outdated summaries.
+- Understand sociology definitions and explain them using Nepali society examples.
+- Compare theories of social and cultural change.
+- Prepare short notes on modernization, globalization, migration and development.
+- Use examples to explain ethical dilemmas in IT.
+- Learn the components of emotional intelligence with practical examples.
+- Practise case-based answers about social skills, responsibility and workplace situations.
 
 ## Focus Areas
 
-- IT's impact on society
-- Digital divide and digital literacy
-- Professional ethics and codes of conduct
-- Privacy and data protection
-- Copyright, plagiarism and software licensing
-- Cybercrime and cyber law
-- AI, social media and emerging technology ethics
+- Sociology and its relationship with other disciplines
+- Social and cultural change
+- Development and transformation
+- Nepali society and culture
+- Professional ethics and corporate social responsibility
+- Emotional intelligence
+- Social management and responsibility
 
 ## Useful Resources
 
-- [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
-- [Electronic Frontier Foundation](https://www.eff.org/)
-- [UNESCO — Digital citizenship and technology](https://www.unesco.org/)
+- [ACM Code of Ethics](https://www.acm.org/code-of-ethics)
+- [UNESCO](https://www.unesco.org/)
 - [Nepal Law Commission](https://lawcommission.gov.np/)
+- [Electronic Frontier Foundation](https://www.eff.org/)
 
 ## Previous Questions
 
