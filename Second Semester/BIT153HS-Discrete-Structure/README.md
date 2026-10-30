@@ -5,12 +5,12 @@ Use this folder to store PU BIT153HS previous-year question papers.
 ## Format
 
 ```text
-pastquestion.md/
+Previous-Questions/
 ├── README.md
-├── 2025-Regular.md
-├── 2024-Regular.md
-├── 2023-Regular.md
-└── 2022-Regular.md
+    ├── 2025-Regular.md
+    ├── 2024-Regular.md
+    ├── 2023-Regular.md
+    └── 2022-Regular.md
 ```
 
 ## How to use previous questions
