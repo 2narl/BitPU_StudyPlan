@@ -1,174 +1,65 @@
-# Purbanchal University BIT Study Plan & Resources
+# Purbanchal University BIT Study Resources
 
-A student-maintained collection of study plans, syllabus guidance, learning resources, and previous-year question papers for the **Bachelor of Information Technology (BIT)** program at **Purbanchal University (PU), Nepal**.
+Welcome to **BitPU_StudyPlan** — a student-maintained repository of learning materials and academic resources for the **Bachelor of Information Technology (BIT)** program at **Purbanchal University, Nepal**.
 
-The aim of this repository is to help BIT students organize their semester studies, find useful learning materials, and prepare for examinations.
+The purpose of this repository is to make useful study materials easier to find, organize, and share with fellow BIT students.
 
-> **Repository status:** This is a work in progress. Some semester and subject materials are available, while other detailed resources and folders are still being prepared. The contents will be expanded gradually.
+## What You Can Find Here
 
----
+Depending on what has been added, this repository may include:
 
-## Table of Contents
+- Syllabus information and study guidance.
+- Subject-wise notes and explanations.
+- Recommended books and learning resources.
+- Useful websites and educational video lessons.
+- Previous-year question papers.
+- Solved questions, examples, and diagrams.
+- Exam preparation and revision materials.
 
-- [Repository Overview](#repository-overview)
-- [Repository Structure](#repository-structure)
-- [Semester and Subject Overview](#semester-and-subject-overview)
-- [Available Materials](#available-materials)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Clone the Repository](#clone-the-repository)
-- [Contributing](#contributing)
-- [Important Notes](#important-notes)
-- [Contact](#contact)
-
----
-
-## Repository Overview
-
-This repository is organized by semester and subject. Depending on the available materials, you may find:
-
-- Semester-wise study plans and study strategies.
-- Subject-wise syllabus topics and focus areas.
-- Recommended books, websites, and YouTube learning resources.
-- Weekly study schedules and revision plans.
-- Previous-year and pre-board question papers.
-- Question-paper diagrams and related images.
-- Examination preparation guidance.
-
-The materials are intended as supplementary study support. Always compare them with the latest official PU syllabus, notices, and instructions provided by your college.
-
-## Repository Structure
-
-```text
-BitPU_StudyPlan/
-├── .gitignore
-├── README.md
-├── First semester/
-│   └── README.md
-└── Second Semester/
-    ├── README.md
-    └── BIT153HS-Discrete-Structure/
-        ├── README.md
-        └── Previous-Questions/
-            ├── README.md
-            ├── 123.png
-            ├── 20228.png
-            ├── 20231.png
-            ├── 20232.png
-            └── q6_graph.png
-```
-
-### Folder Guide
-
-| Path | Description |
-|---|---|
-| `First semester/README.md` | First-semester subject overview, study strategy, focus areas, resources, and revision guidance. |
-| `Second Semester/README.md` | Second-semester subject overview, study strategy, recommended resources, and exam preparation guidance. |
-| `Second Semester/BIT153HS-Discrete-Structure/` | Dedicated folder for Discrete Structure study resources. |
-| `Second Semester/BIT153HS-Discrete-Structure/Previous-Questions/` | Transcribed PU Discrete Structure question papers and supporting diagrams. |
-
-At present, the Discrete Structure subject is the only second-semester subject with a dedicated subject folder in this repository. More subject folders and materials can be added over time.
-
-## Semester and Subject Overview
-
-The semester overview files currently cover the following subjects.
-
-### First Semester
-
-| Course | Subject |
-|---|---|
-| BIT101CO | Fundamentals of Information Technology |
-| BIT102HS | Mathematics-I |
-| BIT103HS | Technical Communication |
-| BIT104HS | Society and Ethics in IT |
-| BIT105CO | Computer Programming in C |
-| BIT106CO | Project-I |
-
-See the [First Semester study plan](First%20semester/README.md).
-
-### Second Semester
-
-| Subject |
-|---|
-| Mathematics-II |
-| Digital Logic |
-| Discrete Structure |
-| Object-Oriented Programming (C++) |
-| Financial Management and Accounting |
-| Project-II |
-
-See the [Second Semester study plan](Second%20Semester/README.md).
-
-> Course codes for the second-semester subjects are not listed here because they have not yet been confirmed in the repository materials.
-
-## Available Materials
-
-### Study plans
-
-The semester README files provide subject-wise focus areas, study methods, recommended resources, weekly schedules, and revision advice.
-
-### Discrete Structure previous questions
-
-The [Discrete Structure Previous Questions folder](Second%20Semester/BIT153HS-Discrete-Structure/Previous-Questions/README.md) currently includes transcribed question-paper material for:
-
-- PU BIT Second Semester Pre-Board 2026.
-- PU BIT Second Semester Final 2022.
-- PU BIT Second Semester Final 2023.
-- PU BIT Second Semester Final 2024.
-- PU BIT Second Semester Final 2025.
-
-Some question-paper text may be incomplete or unclear in the available transcription. Refer to the original paper whenever possible and report corrections if you find any.
+Content will be added and improved over time. Not every subject or topic has complete materials yet.
 
 ## How to Use This Repository
 
-1. Open the folder for your semester.
-2. Read the semester README to understand the subjects and suggested study approach.
-3. Open a subject folder if detailed materials are available.
-4. Use the recommended books, websites, and video lessons to study difficult topics.
-5. Practise the available previous-year questions.
-6. Check the official PU syllabus and your college's instructions before relying on any study plan.
+1. Browse the repository and open the materials relevant to your studies.
+2. Read the available notes and explanations.
+3. Use recommended resources to explore topics further.
+4. Practise with available questions and examples.
+5. Check the latest official Purbanchal University syllabus and your college instructions.
 
 ## Clone the Repository
 
-To get a local copy of this repository, make sure Git is installed and run:
+To download a local copy, make sure Git is installed and run:
 
 ```bash
 git clone https://github.com/2narl/BitPU_StudyPlan.git
 ```
 
-Then open the downloaded `BitPU_StudyPlan` folder in your preferred editor, such as Visual Studio Code, or browse the Markdown files directly on GitHub.
+You can then open the downloaded folder in your preferred code editor or read the Markdown files directly on GitHub.
 
-## Contributing
+## Contributions
 
-Contributions from PU BIT students and other learners are welcome. You can help improve this repository by:
+Contributions are welcome! If you are a BIT student, educator, or learner, you can help improve this repository by:
 
-- Adding or correcting syllabus information.
-- Preparing clear subject-wise notes and explanations.
-- Sharing genuine PU question papers with the relevant year and exam type.
-- Adding properly labelled solved questions and diagrams.
-- Recommending useful books, tutorials, and free learning resources.
-- Fixing broken links, spelling mistakes, or formatting issues.
-- Suggesting improvements to the folder structure.
+- Sharing useful study notes and explanations.
+- Adding previous-year question papers.
+- Providing solved questions and examples.
+- Recommending helpful books, websites, and video lessons.
+- Correcting errors and broken links.
+- Improving the documentation and organization.
 
-### Suggested contribution process
+To contribute, fork the repository, make your changes, and submit a Pull Request with a brief description.
 
-1. Fork the repository.
-2. Create a branch for your changes.
-3. Add or update the relevant Markdown files and resources.
-4. Commit and push your changes to your fork.
-5. Open a Pull Request with a short explanation of your contribution.
-
-Please keep contributions relevant to the PU BIT curriculum, identify the source and year of question papers where possible, and respect copyright. Do not upload copyrighted books or materials unless you have permission to share them.
+Please ensure that shared materials are accurate, relevant, and properly credited. Do not upload copyrighted materials unless you have permission.
 
 ## Important Notes
 
-- This is an independent, student-maintained repository and is not an official Purbanchal University publication.
-- Syllabi, course structures, examination patterns, and college instructions may change. Verify important information with official sources.
-- Recommended resources are provided for learning support; their inclusion does not imply endorsement by Purbanchal University.
-- Previous-question transcriptions may contain omissions or typing errors. Please help report and correct them.
+- This is an independent, student-maintained repository. It is not an official publication of Purbanchal University.
+- Always verify syllabus details and academic requirements with official university or college sources.
+- Some materials may be incomplete or contain errors. Suggestions and corrections are appreciated.
 
 ## Contact
 
-For suggestions, corrections, questions, or contributions:
+For questions, suggestions, corrections, or contributions:
 
 - **Email:** [2naryal@gmail.com](mailto:2naryal@gmail.com)
 - **GitHub:** [@2narl](https://github.com/2narl)
@@ -179,4 +70,4 @@ For suggestions, corrections, questions, or contributions:
 
 ## A Note from the Maintainer
 
-I sincerely apologize that I have not been able to complete and upload all the planned materials yet. Some parts of this repository are still missing or incomplete, including detailed first-semester subject materials and other subject-wise resources. I am working on completing them and will keep updating this repository gradually with more study plans, notes, question papers, and useful learning content. Thank you for your patience and understanding.
+I sincerely apologize that I have not been able to complete all the planned materials yet. Some content is still missing or incomplete. I am working on it and will continue updating this repository gradually with more study resources and useful learning materials. Thank you for your patience and understanding.
