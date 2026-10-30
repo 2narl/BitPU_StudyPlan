@@ -7,104 +7,97 @@
 
 ## Course Objective
 
-To strengthen mathematical foundations used in computing and information technology, including algebra, coordinate geometry, vectors, calculus, functions of several variables, multiple integration and matrices.
+To enable students to apply mathematical tools such as linear algebra, differential calculus and analytical geometry in information technology.
 
-## Detailed Syllabus and Study Outline
+## Detailed PU Syllabus
 
-> This is an expanded study outline for Mathematics-I, not a verified verbatim transcription of the revised BIT102HS course specification. The older PU Mathematics-I outline includes the topics below; confirm the current unit sequence and teaching hours with your college's latest BIT102HS handout.
+### Unit 1: Matrix Algebra (7 Hrs)
+- Definition and equality of matrices
+- Addition and scalar multiplication of a matrix
+- Product of matrices
+- Special types of matrices
+- Matrices and determinants (simple cases only)
+- Adjoint and inverse of a matrix
+- Cramer's rule
+- Use of matrices in solving systems of linear equations
+- Homogeneous and non-homogeneous systems
 
-### Unit 1: Coordinate Systems
+### Unit 2: Coordinate Systems (5 Hrs)
 - Rectangular coordinates in a plane
 - Polar coordinates
-- Rectangular coordinates in three-dimensional space
+- Rectangular coordinates in space
 - Cylindrical polar coordinates
 - Spherical polar coordinates
-- Transformation between coordinate systems
+- Transformation from one coordinate system to another
 
-### Unit 2: Elementary Coordinate Geometry
-- Conic sections: circle, parabola, ellipse and hyperbola
-- Standard equations and properties of conic sections
+### Unit 3: Elementary Coordinate Geometry (5 Hrs)
+- Conic sections
 - Translation of axes
-- Equations of conics in polar coordinates
+- Equation of a conic in polar coordinates
 
-### Unit 3: Vectors and Solid Geometry
-- Concept and representation of vectors
+### Unit 4: Vectors and Solid Geometry (10 Hrs)
+- Concept of a vector
 - Addition and subtraction of vectors
 - Resolution of vectors
-- Scalar (dot) product
-- Vector (cross) product
-- Equation of a line and a plane
+- Scalar (dot) product of two vectors
+- Vector (cross) product of two vectors
+- Equations of a line and a plane
 - Products of three or more vectors
 - Sphere, cylinder and cone
-- Introduction to quadratic surfaces
+- Quadratic surfaces
 
-### Unit 4: Applications of Differentiation
-- Geometric applications of derivatives
+### Unit 5: Applications of Differentiation (8 Hrs)
+- Geometrical applications
 - Related rates
 - Rolle's theorem and Mean Value Theorem
-- Indeterminate forms and limits
+- Indeterminate forms
 - Maxima and minima
-- Taylor's and Maclaurin's series
+- Taylor's and Maclaurin's theorems and series
 - Curvature
 - Asymptotes
 
-### Unit 5: Applications of Definite Integration
+### Unit 6: Applications of the Definite Integral (5 Hrs)
 - Area bounded by a curve
-- Volumes of solids of revolution
-- Surface area of solids of revolution
-- Length of an arc
+- Volume and surface area of solids of revolution
+- Length of an arc of a curve
 - Area and volume in polar coordinates
 
-### Unit 6: Functions of Several Variables
-- Functions of two or more variables
+### Unit 7: Functions of Several Variables (5 Hrs)
+- Functions of several variables
 - Limits and continuity
 - First- and second-order partial derivatives
 - Homogeneous functions
-- Euler's theorem for homogeneous functions
+- Euler's theorem
 
-### Unit 7: Multiple Integrals
-- Definition and evaluation of double integrals
-- Area by double integration
-- Introduction to triple integrals
-- Simple applications of triple integrals
-- Change of variables
+## Recommended Textbooks and References
 
-### Unit 8: Matrix Algebra
-- Definition and equality of matrices
-- Addition and scalar multiplication
-- Matrix multiplication
-- Special types of matrices
-- Matrices and determinants
-- Adjoint and inverse of a matrix
-- Cramer's rule
-- Solving homogeneous and non-homogeneous systems of linear equations
-
-## Recommended Textbooks
-
-1. **Higher Engineering Mathematics** — B. S. Grewal.
-2. **Advanced Engineering Mathematics** — Erwin Kreyszig.
-3. **Engineering Mathematics** — S. S. Sastry.
-4. **Schaum's Outline of Calculus** — Frank Ayres Jr. and Elliott Mendelson.
+1. **Engineering Mathematics, Volume I** — S. S. Sastry.
+2. **Calculus with Analytic Geometry** — John B. Fraleigh.
+3. **Calculus for Engineering and Scientists, Volume I** — A. C. Bajpai, I. M. Calus and Fairley (verify exact author spelling and edition in the library catalogue).
+4. **Calculus and Its Applications** — L. J. Goldstein, D. C. Lay and D. I. Schneider.
+5. **Theory and Problems of Advanced Calculus (Schaum's Outline)** — Murray R. Spiegel.
+6. **Engineering Mathematics, Volume I** — R. S. L. Srivastava.
+7. **Introduction to Matrices** — N. Saran and J. K. Goyal.
 
 ## How to Study
 
-- Keep a formula notebook organized by unit.
-- Understand the conditions for applying each theorem.
-- Solve worked examples before attempting exercise questions.
-- Show every algebraic step in numerical answers.
-- Practise vectors, differentiation, integration and matrices every week.
-- Revisit mistakes and solve similar problems without looking at solutions.
+- Keep a formula notebook for matrices, vectors, differentiation and integration.
+- Practise matrix inverse, determinants and Cramer's rule step by step.
+- Draw coordinate systems and conic sections.
+- Memorize the conditions for applying Rolle's theorem and the Mean Value Theorem.
+- Practise maxima/minima and related-rate problems.
+- Solve vector and partial-derivative problems every week.
 
 ## Focus Areas
 
+- Matrix operations and systems of equations
 - Coordinate transformations
 - Conic sections
 - Dot and cross products
-- Line and plane equations
-- Differentiation applications and series
-- Definite integrals and applications
-- Partial derivatives and multiple integrals
-- Matrix inverse and systems of equations
+- Equations of lines and planes
+- Differentiation applications
+- Definite integrals and their applications
+- Partial derivatives and Euler's theorem
 
 ## Useful Resources
 
