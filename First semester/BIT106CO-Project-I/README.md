@@ -3,88 +3,80 @@
 **Course Code:** BIT106CO  
 **Credits:** 2  
 **Weekly Hours:** Lecture - | Tutorial - | Laboratory 3  
-**Course Type:** Practical / Project
+**Course Type:** Practical / Group Project
 
-## Course Purpose
+## Course Objective
 
-Project-I gives students an opportunity to apply introductory IT and programming knowledge to a small, manageable problem. Students should practise problem identification, planning, design, implementation, testing, documentation and presentation.
+To enable students to design and complete a software project using a high-level programming language, specifically C programming.
 
-> Project-I requirements can vary by college and instructor. The steps below are a recommended project workflow, not a substitute for the official project brief or marking rubric.
+## Project Requirements
 
-## Project Learning Outcomes
+- A project group develops a software project using C programming (BIT105CO).
+- Each student in the group should work for **45 laboratory hours** under the supervision of an assigned supervisor.
+- The group must develop the assigned software, submit a written report and give an oral presentation.
+- The project group size is **2 to 3 students**.
 
-By completing the project, students should be able to:
-- Identify a simple real-world problem that can be addressed using computing.
-- Define project objectives, scope and requirements.
-- Prepare a basic plan and divide work into manageable tasks.
-- Design an algorithm, flowchart or simple system model.
-- Implement a working solution using the tools and programming concepts taught in Semester I.
-- Test the solution and correct errors.
-- Prepare clear project documentation.
-- Demonstrate the work and answer questions about it.
+## General Project Procedure
 
-## Suggested Project Workflow
+### 1. Information Gathering
+- Identify the problem and intended users.
+- Collect information and understand the requirements.
+- Define the problem clearly.
 
-### Stage 1: Problem Identification
-- Observe a small problem in a school, home, community or business.
-- Identify the users and their needs.
-- Write a clear problem statement.
-- Check whether the project is achievable within the semester.
-
-### Stage 2: Project Proposal
-- Select a project title.
-- Write the background and problem statement.
-- Define the main objective and specific objectives.
-- Describe project scope and limitations.
-- Identify required hardware and software.
-- Prepare a simple schedule and task list.
-
-### Stage 3: Requirement Analysis
+### 2. System Requirements Specification
+- Describe the purpose and scope of the project.
 - Identify functional requirements.
-- Identify non-functional requirements where relevant.
-- Determine inputs, processing and outputs.
-- Gather requirements from intended users or stakeholders.
+- Identify hardware and software requirements.
+- Record assumptions and limitations.
 
-### Stage 4: System Design
+### 3. Algorithms and Flowcharts
+- Design the solution before coding.
 - Prepare algorithms and flowcharts.
-- Design input and output screens or forms.
-- Plan data storage and file organization.
-- Draw simple diagrams to explain the solution.
+- Identify inputs, processing steps and outputs.
 
-### Stage 5: Implementation
-- Build the project in small modules.
-- Use clear variable names and comments.
-- Follow basic coding conventions.
-- Test each module before combining them.
+### 4. Coding Techniques
+- Implement the solution using C.
+- Divide the program into manageable functions or modules.
+- Use meaningful names and comments.
+- Compile, test and debug the program.
 
-### Stage 6: Testing and Improvement
-- Prepare test cases with input, expected result and actual result.
-- Test valid, invalid and boundary inputs.
-- Fix errors and repeat tests.
-- Record limitations and possible future improvements.
+### 5. Results
+- Demonstrate the working software.
+- Test the program using suitable inputs.
+- Record the output and explain whether requirements were met.
 
-### Stage 7: Documentation
-A project report may include the following sections, subject to the college's required format:
-1. Title page
-2. Abstract
-3. Introduction and problem statement
-4. Objectives and scope
-5. Requirement analysis
-6. System design, algorithms and flowcharts
-7. Implementation details
-8. Testing and results
-9. Conclusion and future enhancements
-10. References and appendices
+### 6. Documentation
+The project document should include:
+- Technical description of the project
+- System aspects of the project
+- Project implementation
+- Project tasks and time schedule
+- Project team members
+- Project supervisor
 
-### Stage 8: Demonstration and Presentation
-- Prepare a short presentation.
-- Demonstrate the working project.
-- Explain the problem, approach, important design decisions and results.
-- Be ready to answer questions about the code and limitations.
+## Project Evaluation
+
+### Internal Assessment
+| Evaluation Component | Marks |
+|---|---:|
+| Title identification and proposal writing | 10 |
+| Mid-term presentation | 20 |
+| Pre-final submission and final presentation | 30 |
+| **Total** | **60** |
+
+### External Assessment
+| Evaluation Component | Marks |
+|---|---:|
+| Project documentation | 20 |
+| Final presentation | 10 |
+| Viva | 10 |
+| **Total** | **40** |
+
+**Total project marks: 100.**
 
 ## Suggested Beginner Project Ideas
 
-Choose one small project approved by your instructor:
+Choose a small project approved by your supervisor:
 
 - Student marks and grade calculator
 - Personal expense tracker
@@ -93,24 +85,25 @@ Choose one small project approved by your instructor:
 - Unit converter
 - Contact book
 - Basic inventory tracker
-- Student attendance record prototype
+- Student record management system
 
 ## Recommended Books
 
-1. **C Programming / Programming in ANSI C** — E. Balagurusamy (for implementation fundamentals).
-2. **The C Programming Language** — Brian W. Kernighan and Dennis M. Ritchie (for C programming reference).
-3. **Software Engineering: A Practitioner's Approach** — Roger S. Pressman and Bruce R. Maxim (for basic development and testing concepts).
-4. **Information Technology Project Management** — Kathy Schwalbe (for project planning and management fundamentals).
+1. **Programming in ANSI C** — E. Balagurusamy (for C implementation).
+2. **The C Programming Language** — Brian W. Kernighan and Dennis M. Ritchie (for C reference).
+3. **Software Engineering: A Practitioner's Approach** — Roger S. Pressman and Bruce R. Maxim (for software development and testing concepts).
+4. **Information Technology Project Management** — Kathy Schwalbe (for planning and project management concepts).
 
 ## How to Work on the Project
 
-- Select a small problem; avoid an oversized system.
-- Confirm the topic and expected deliverables with your instructor.
-- Keep regular backups of source code and report files.
-- Maintain a development log with dates and completed tasks.
-- Test the project after every meaningful change.
-- Make sure you can explain every part of the work you submit.
+- Select a small, achievable problem.
+- Get the topic approved by the supervisor.
+- Maintain a project log and task schedule.
+- Keep backups of source code and documentation.
+- Test each module before final integration.
+- Make sure every group member can explain the project.
+- Prepare the report and presentation before the final evaluation.
 
-## Previous Questions and Project Briefs
+## Previous Project Briefs
 
 Store previous project instructions, evaluation rubrics and approved examples in the [Previous-Questions](Previous-Questions/README.md) folder.
