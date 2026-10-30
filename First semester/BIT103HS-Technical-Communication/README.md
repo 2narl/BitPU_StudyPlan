@@ -3,102 +3,120 @@
 **Course Code:** BIT103HS  
 **Credits:** 3  
 **Weekly Hours:** Lecture 3 | Tutorial 1 | Laboratory -  
-**Course Type:** Theory and communication practice
+**Course Type:** Theory + Communication Workshops
 
-## Course Objectives
+## Course Objective
 
-- Develop effective oral communication and presentation skills.
-- Improve intensive and extensive reading skills.
-- Develop clear, accurate and organized technical writing.
-- Practise professional communication used in academic and workplace settings.
+To develop the intensive and extensive skills needed for oral presentation, writing and presenting a seminar paper.
 
-## Detailed Syllabus and Study Outline
+## Detailed PU Syllabus
 
-> This outline organizes the core technical-communication competencies for study. Use the latest PU BIT103HS course handout for the exact official unit titles, prescribed readings and assessment requirements.
+### Unit 1: Oral Communication (10 Hrs)
+- Oral presentation skills: introduction
+- Getting started on presentations
+- Planning and organizing
+- Preparing and rehearsing
+- Presenting
+- Organizing a group
+- Group discussion and opposing / presenting viewpoints
+- Writing and presenting a seminar
 
-### Unit 1: Fundamentals of Communication
-- Meaning, purpose and process of communication
-- Verbal and non-verbal communication
-- Formal and informal communication
-- Barriers to effective communication
-- Listening skills and feedback
-- Audience, purpose and context
+### Unit 2: Reading — Intensive and Extensive (16 Hrs)
 
-### Unit 2: Oral Communication
-- Fundamentals of effective speaking
-- Posture, gesture and facial expression
-- Voice, eye contact and personal space
-- Group discussion on general and technical topics
-- Participation, turn-taking and argument
-- Meeting preparation and conduct
-- Preparation of notices, agendas and minutes
-- Technical talks and oral presentations
-- Preparing a manuscript, notes and visual aids for a technical talk
+**Intensive Reading**
+- How to tackle reading materials
+- Contextual grammar practice:
+  - Prepositions
+  - Active and passive voice
+  - Tense-based practice
+  - Direct and indirect speech
+  - Subject-verb concord
+  - Error analysis
+  - Stress
+- Reading techniques:
+  - Skimming
+  - Scanning
+  - Note-making
+  - Summary writing
 
-### Unit 3: Reading Skills
-- Intensive and extensive reading
-- Reading strategies and reading for different purposes
-- Reading technical and non-technical texts
-- Comprehension and interpretation
-- Identifying main ideas and supporting details
-- Vocabulary in context
-- Note-making and summary writing
-- Contextual grammar
+**Extensive Reading**
+- How to tackle extensive reading materials
+- Practice in extensive reading
 
-### Unit 4: Principles of Effective Writing
-- Unity, coherence, conciseness and clarity
-- Paragraph organization
-- Sentence structure and punctuation
-- Editing and proofreading
-- Audience-aware and purpose-driven writing
+### Unit 3: Writing (19 Hrs)
 
-### Unit 5: Technical and Descriptive Writing
-- Description of mechanical, electrical and electronic objects
-- Description of tables, graphs and charts
-- Description of landscapes and technical processes
-- Sequencing, comparison and classification
-- Clear presentation of technical information
+**Business Communication**
+- Rules of good writing
+- Fax messages and electronic mail
+- Memos
+- Meetings: preparation of notices, agendas and minutes
 
-### Unit 6: Professional Letters and Applications
-- Standard formats for official letters
-- Requests for information and provision of information
-- Instructions, requests, apologies and explanations
-- Complaints and order letters
+**Persuasive Communication**
+- Notices
+- Advertisements
+- Leaflets
+
+**Letters**
+- Official letters and standard letter format
+- Letters for asking and giving instructions
+- Letters of request, apology and explanation
+- Complaint and order letters
 - Letters of application
-- Curriculum vitae (CV), biodata and résumé
+- Preparing a job application and résumé
 
-### Unit 7: Proposal and Technical Report Writing
-- Purpose and structure of a technical proposal
-- Preparing and organizing a proposal
-- Purpose and structure of a technical report
-- Report organization: title, introduction, method, findings and conclusion
-- Use of tables, figures and references
-- Editing and presenting a report
+**Proposals**
+- Introduction to proposals
+- Getting started on a proposal
+- Composing informal proposals
+- Composing formal proposals
 
-## Recommended Textbooks
+**Information Reports**
+- Introduction to informative reports
+- Getting started on informative reports
+- Summary and abstract
+- Mechanism and description
+- Periodic reports
+- Progress reports
+- News releases
 
-1. **English for Engineers and Technologists** — Anna University / Orient Longman (prescribed course text in the older PU technical-communication outline; check the edition used by your college).
-2. **Technical Communication: Principles and Practice** — Meenakshi Raman and Sangeeta Sharma.
-3. **Effective Technical Communication** — M. Ashraf Rizvi.
-4. **Reporting Technical Information** — Kenneth W. Houp, Thomas E. Pearsall, Elizabeth Titsworth and D. A. B. (verify edition and author listing against the copy you use).
+**Recommendation Reports**
+- Introduction to recommendation reports
+- Purpose and structure
+- Starting a recommendation report
+- Formatting and organizing recommendation reports
+- Composing recommendation reports
+
+## Workshop / Seminar
+
+Workshops and seminars should be conducted to enhance reading, writing, listening and speaking skills.
+
+## Recommended Textbooks and References
+
+1. **Communication for Business: A Practical Approach** — Shirley Taylor (2005).
+2. **Technical Writing for Success** — Darlene Smith-Worthington and Sue Jefferson (3rd edition, 2011).
+3. **A Course Book of Communicative English** — Usha Adhikari et al. (2012).
+4. **Developing Communication Skills** — Krishna Mohan and Meera Banerji (1990).
+5. **Technical Writing** — S. J. Gerson and S. M. Gerson (2007).
+6. **A Communicative Grammar of English** — Geoffrey Leech and Jan Svartvik (1975).
 
 ## How to Study
 
-- Speak for two to three minutes on a technical topic every week.
-- Practise group discussion and meeting roles.
-- Read one technical passage and one general passage regularly.
-- Write a summary after reading each passage.
-- Practise one formal letter, one application and one short report each week.
-- Learn formats, but focus on clear and correct communication rather than memorizing complete samples.
+- Give a short oral presentation every week.
+- Practise group discussion and seminar presentation.
+- Read passages and identify their main ideas.
+- Practise skimming, scanning, note-making and summary writing.
+- Write formal letters, applications, memos, notices and meeting minutes.
+- Practise proposals and both informative and recommendation reports.
+- Revise grammar through short daily exercises.
 
 ## Focus Areas
 
-- Oral communication and group discussion
-- Meeting notices, agendas and minutes
-- Reading comprehension and summary writing
-- Grammar and effective writing
-- Technical descriptions
-- Official letters and job applications
+- Oral presentation and group discussion
+- Intensive and extensive reading
+- Grammar and reading comprehension
+- Note-making and summary writing
+- Business communication
+- Official letters and applications
 - Proposals and technical reports
 
 ## Useful Resources
