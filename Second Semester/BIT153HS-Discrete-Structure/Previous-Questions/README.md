@@ -1,7 +1,6 @@
 # PAST QUEASION OF PURBANCHAL UNIVERSITY:
    
-# COLLEGE OF INFORMATION TECHNOLOGY & ENGINEERING
-
+**COLLEGE OF INFORMATION TECHNOLOGY & ENGINEERING**
 **2026**  
 **Bachelor of Information Technology: Second Semester Pre-Board**  
 **Course**: Discrete Structure  
